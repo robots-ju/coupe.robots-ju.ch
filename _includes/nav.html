@@ -1,0 +1,11 @@
+<nav class="container-nav">
+	<h1 class="logo"><a href="/">Coupe Robots-JU</a></h1>
+
+	<ul class="main-menu">{% for link in site.main_menu %}{% assign current = nil %}{% if page.url == link.url %}{% assign current = 'active' %}{% endif %}{% if page.url == '/index.html' and link.url == '/' %}{% assign current = 'active' %}{% endif %}
+		<li class="{{ current }}"><a href="{{ link.url }}"><i class="fa fa-{{ link.icon }}"></i> {{ link.title }}</a></li>{% endfor %}
+	</ul>
+
+	<ul class="sub-menu">
+		<li><a href="https://robots-ju.ch/"><i class="fa fa-arrow-left"></i> Robots-JU.ch</a></li>
+	</ul>
+</nav>

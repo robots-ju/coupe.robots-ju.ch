@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class="area-content-top" style="{% if page.banner_image %}background-image: url({{ page.banner_image }}){% endif %}">
+	<!-- -->
+</div>
+<div class="area-content-body">
+	<div class="container-main">
+		<section{% if page.section_popup %} class="section-popup"{% endif %}>
+			<h1>{{ page.title }}</h1>
+
+			{{ content }}
+		</section>
+	</div>
+	<div class="container-secondary">
+		{% include sponsors.html %}
+	</div>
+</div>

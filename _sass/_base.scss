@@ -1,0 +1,45 @@
+// (c) Robots-JU 2016 - https://robots-ju.ch/
+
+* {
+	box-sizing: border-box;
+}
+
+$nav-width: 300px;
+
+$color-orange: #ffaf22;
+$top-border-height: 5px;
+
+$font-base: 'Roboto', sans-serif;
+$font-heading: 'Exo 2', sans-serif;
+
+$mobile-width: 1100px;
+
+html, body {
+	height: 100%;
+	max-width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: $font-base;
+	color: #222;
+	background: #fafafa;
+
+	@media(min-width: $mobile-width) {
+		display: flex;
+		flex-direction: row;
+		align-items: stretch; // full height
+		align-content: stretch; // full width
+
+		&::after {
+			content: '';
+			position: fixed;
+			top: 0;
+			left: 0;
+			right: 0;
+			height: $top-border-height;
+			background: $color-orange;
+		}
+	}
+}

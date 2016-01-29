@@ -1,0 +1,43 @@
+# Site settings
+title: Coupe Robots-JU
+description: La première édition de la Coupe se déroulera le 21 mai 2016 à Delémont
+url: "https://coupe.robots-ju.ch"
+
+# Build settings
+markdown: kramdown
+sass:
+    style: compressed
+
+exclude:
+  - nbproject
+  - README.md
+
+collections:
+    news:
+        output: false
+
+main_menu:
+  - title: Accueil
+    url: /
+    icon: home
+  - title: Participer
+    url: /participation
+    icon: check
+  - title: S'entraîner
+    url: /entrainement
+    icon: gamepad
+  - title: Programme
+    url: /programme
+    icon: history
+  - title: Règlement
+    url: /reglement
+    icon: gavel
+  - title: Inscription
+    url: /inscription
+    icon: calendar-check-o
+  - title: Contact
+    url: /contact
+    icon: envelope
+
+concours:
+    finance_inscription: 40

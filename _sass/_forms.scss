@@ -1,0 +1,62 @@
+// (c) Robots-JU 2016 - https://robots-ju.ch/
+
+.form-control {
+	display: block;
+	font-size: 1em;
+	font-family: inherit;
+	width: 100%;
+	padding: 0.6em 1em;
+	border: 1px solid #999;
+	border-radius: 3px;
+
+	&:focus {
+		border-color: #333;
+	}
+}
+
+.btn {
+	padding: 0.5em 1em;
+	background: $color-orange;
+	border: none;
+	border-radius: 0.1em;
+	font-size: 1em;
+	font-weight: bold;
+	color: white;
+}
+
+.form-group {
+	padding: 0.5em 0;
+
+	&.actions {
+		text-align: right;
+	}
+
+	.required-field {
+		color: #4148a6;
+	}
+}
+
+.form-table {
+	display: table;
+	width: 100%;
+
+	.form-group {
+		display: table-row;
+	}
+
+	label,
+	.form-control {
+		display: table-cell;
+		vertical-align: top;
+		margin: 0.5em 0;
+	}
+
+	label {
+		padding: 1.1em 0;
+		max-width: 8em;
+	}
+
+	textarea {
+		min-height: 10em;
+	}
+}
