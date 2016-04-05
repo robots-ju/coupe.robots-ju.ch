@@ -22,6 +22,7 @@
 
 	h1, h2 {
 		small {
+			display: inline-block; // Garde la date en une seule ligne
 			color: #aaa;
 			font-size: 0.5em;
 			margin-left: 1em;

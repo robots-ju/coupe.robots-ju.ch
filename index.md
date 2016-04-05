@@ -23,7 +23,7 @@ Lors de la compétition, les robots doivent remplir en autonomie des missions tr
 		<section class="section-only-title">
 			<h1>News</h1>
 		</section>
-		{% for post in site.news %}
+		{% for post in site.news reversed %}
 		<section class="section-popup">
 			<h1>{{ post.title }} <small>{{ post.date | date_to_string }}</small></h1>
 			{{ post.content }}
