@@ -3,11 +3,6 @@
 .area-content {
 	flex-grow: 1;
 
-	display: flex;
-	flex-direction: column;
-	align-items: stretch; // full height
-	align-content: stretch; // full width
-
 	h1 {
 		font-family: $font-heading;
 		color: #333;
@@ -59,6 +54,7 @@
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover;
+		overflow: auto;
 
 		section {
 			margin-top: 100px;
@@ -68,10 +64,6 @@
 				box-shadow: 0 0 10px rgba(black, 0.5);
 			}
 		}
-	}
-
-	.area-content-body {
-		flex-grow: 1;
 	}
 
 	.container-main,
@@ -85,7 +77,16 @@
 
 	.container-secondary {
 		width: $nav-width;
-		max-width: 100%;
+
+		@media(max-width: $mobile-width) {
+			width: auto;
+			text-align: center;
+
+			section.section-card {
+				display: inline-block;
+				vertical-align: top;
+			}
+		}
 	}
 
 	section {
