@@ -8,8 +8,6 @@ section_popup: true
 
 Utilisez ce formulaire pour contacter les organisateurs de la compétition.
 
-Vous souhaitez vous inscrire ? Utilisez [le formulaire dédié](/inscription).
-
 <form action="https://forms.robots-ju.ch/forms/coupe-contact" method="post">
 	<div class="form-table">
 		<div class="form-group">
