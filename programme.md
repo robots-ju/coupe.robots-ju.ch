@@ -7,7 +7,7 @@ banner_image: /media/banners/public.jpg
 
 La coupe se déroulera le 21 mai 2016 à Delémont.
 
-## Matin:  Live Challenge de 10h30 à 11h00
+## Matin:  Live Challenge de 10h30 à 11h30
 
 - La mission à remplir est dévoilée sur place
 - Le temps pour remplir la mission est limité à 1 heure maximum
