@@ -5,6 +5,8 @@ permalink: /participation
 banner_image: /media/banners/table.jpg
 ---
 
+*Les inscriptions sont closes*
+
 ## Qui peut participer ?
 
 Les jeunes de 10 à 16 ans, regroupés en équipes de 3 à 10 jeunes et encadrés
