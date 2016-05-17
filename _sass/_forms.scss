@@ -22,6 +22,18 @@
 	font-size: 1em;
 	font-weight: bold;
 	color: white;
+	text-align: center;
+
+	&.btn-center {
+		display: block;
+		width: 15em;
+		max-width: 100%;
+		margin: 0 auto;
+	}
+}
+
+a.btn {
+	color: white;
 }
 
 .form-group {

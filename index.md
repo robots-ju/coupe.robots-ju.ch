@@ -7,13 +7,13 @@ title: Accueil
 <div class="container-main">
 <section class="section-popup" markdown="1">
 
-Robots-JU présente la Coupe Robots-JU
-
-La première édition se déroulera le 21 mai 2016 à Delémont
+Robots-JU présente la Coupe Robots-JU. La première édition se déroulera le 21 mai 2016 à Delémont.
 
 Des équipes de jeunes filles et garçons de 10 à 16 ans construisent et programment pendant plusieurs mois des robots LEGO Mindstorms.
 
 Lors de la compétition, les robots doivent remplir en autonomie des missions très variées pour remporter un maximum de points.
+
+<a class="btn btn-center" href="/programme">Voir le Programme</a>
 
 </section>
 </div>
