@@ -20,21 +20,18 @@ main_menu:
   - title: Accueil
     url: /
     icon: home
+  - title: Résultats
+    url: /resultats
+    icon: trophy
   - title: Participer
     url: /participation
     icon: check
   - title: S'entraîner
     url: /entrainement
     icon: gamepad
-  - title: Programme
-    url: /programme
-    icon: history
   - title: Règlement
     url: /reglement
     icon: gavel
-  - title: Inscription
-    url: /inscription
-    icon: calendar-check-o
   - title: Contact
     url: /contact
     icon: envelope

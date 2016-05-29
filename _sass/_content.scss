@@ -123,6 +123,10 @@
 
 	.container-main section {
 		width: 32em;
+
+		&.section-large {
+			width: 58em;
+		}
 	}
 
 	.area-content-top .container-main {

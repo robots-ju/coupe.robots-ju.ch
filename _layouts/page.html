@@ -6,7 +6,7 @@ layout: default
 </div>
 <div class="area-content-body">
 	<div class="container-main">
-		<section{% if page.section_popup %} class="section-popup"{% endif %}>
+		<section{% if page.section_popup %} class="section-popup"{% endif %}{% if page.section_large %} class="section-large"{% endif %}>
 			<h1>{{ page.title }}</h1>
 
 			{{ content }}

@@ -8,8 +8,6 @@ en particulier nos sponsors et toute l'équipe qui a travaillé non-stop lors de
 
 Et bien sûr, un grand bravo aux **Tobor**, doubles champions du Robot-Game et de la Coupe !
 
-Le classement complet (y-compris le détail des matchs),
-ainsi que des photos de l'événement seront publiés dans la semaine
-(le webmaster a besoin d'un peu de repos).
+Edit: Le détail des résultats est maintenant [en ligne](/resultats) !
 
 [![Robot-Game](/media/photos/robot-game.jpg)](/media/photos/robot-game.jpg)

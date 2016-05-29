@@ -5,7 +5,7 @@ permalink: /participation
 banner_image: /media/banners/table.jpg
 ---
 
-*Les inscriptions sont closes*
+*La première édition de la Coupe est terminée*
 
 ## Qui peut participer ?
 
