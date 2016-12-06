@@ -20,9 +20,9 @@ main_menu:
   - title: Accueil
     url: /
     icon: home
-  - title: Résultats
-    url: /resultats
-    icon: trophy
+  - title: Programme
+    url: /programme
+    icon: tasks
   - title: Participer
     url: /participation
     icon: check
@@ -35,6 +35,9 @@ main_menu:
   - title: Contact
     url: /contact
     icon: envelope
+  - title: Résultats 2016
+    url: /resultats
+    icon: trophy
 
 concours:
     finance_inscription: 40

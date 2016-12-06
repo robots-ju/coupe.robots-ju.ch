@@ -5,7 +5,6 @@ permalink: /participation
 banner_image: /media/banners/table.jpg
 ---
 
-*La première édition de la Coupe est terminée*
 
 ## Qui peut participer ?
 
@@ -21,7 +20,13 @@ dans des clubs de robotique, en famille ou avec des copains…
 
 ## Comment s’inscrire ?
 
-L’inscription s’effectue par le biais du site Robots-JU.ch
-au moyen du formulaire de contact dédié
+*Les inscriptions pour l'édition 2017 ouvriront prochainement*
 
-Une finance d’inscription de Frs {{ site.concours.finance_inscription }}.- par équipe est perçue
+## Emportez avec vous
+
+Le jour de la compétion vous aurez besoin:
+
+- Pour le Live Challenge: un ordinateur avec le [logiciel de programmation **LEGO Mindstorms EV3**](https://www.lego.com/fr-fr/mindstorms/downloads/download-software)
+- Pour le Robot Game: un robot LEGO Mindstorms (toute version)
+
+Consultez la page [Entraînement](/entrainement) pour plus de détail.

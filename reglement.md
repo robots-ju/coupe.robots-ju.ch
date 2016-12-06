@@ -12,7 +12,12 @@ banner_image: /media/banners/turtle.jpg
 
 ## Robot-Game
 
-- Le [règlement du Robot-Game FLL](http://sps.epfl.ch/op/edit/page-116712.html) fera foi.
-- Le décompte des points de fait au moyen du [Robots-JU Scoreboard 2015](https://fll-scoreboard-2015.robots-ju.ch/) dont le code est accessible publiquement sur [GitHub](https://github.com/robots-ju/fll-scoreboard-2015).
+- Le [règlement du Robot-Game FLL](http://sps.epfl.ch/fll-regles) fera foi.
+- Le décompte des points se fait au moyen du [Robots-JU FLL Scoreboard 2016](https://fll-scoreboard-2016.robots-ju.ch/) dont le code est accessible publiquement sur [GitHub](https://github.com/robots-ju/fll-scoreboard-2016).
+
+## Autre
+
+- Des photos seron prises durant cette journée et certaines seront publiées sur nos sites (robots-ju.ch, coupe.robots-ju.ch) et/ou nos réseaux sociaux (@RobotsJU).
+- Si des parents souhaitent que leur enfant ne soit pas photographié, merci de nous en avertir.
 
 N'hésitez pas à [nous contacter](/contact) si vous avez des questions.
