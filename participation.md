@@ -20,7 +20,11 @@ dans des clubs de robotique, en famille ou avec des copains…
 
 ## Comment s’inscrire ?
 
-*Les inscriptions pour l'édition 2017 ouvriront prochainement*
+L'inscription s'effectue au moyen du [formulaire de contact dédié](/inscription).
+
+Une finance d’inscription de Frs {{ site.concours.finance_inscription }}.- par équipe est perçue.
+
+Chaque équipe peut transmettre un logo qui sera affiché sur le classement à côté du nom d'équipe.
 
 ## Emportez avec vous
 

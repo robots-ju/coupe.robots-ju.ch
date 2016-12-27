@@ -32,6 +32,9 @@ main_menu:
   - title: Règlement
     url: /reglement
     icon: gavel
+  - title: Inscription
+    url: /inscription
+    icon: calendar-check-o
   - title: Contact
     url: /contact
     icon: envelope
@@ -40,4 +43,4 @@ main_menu:
     icon: trophy
 
 concours:
-    finance_inscription: 40
+    finance_inscription: 50

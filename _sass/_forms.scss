@@ -57,7 +57,8 @@ a.btn {
 	}
 
 	label,
-	.form-control {
+	.form-control,
+	.form-control-boxes {
 		display: table-cell;
 		vertical-align: top;
 		margin: 0.5em 0;
@@ -70,5 +71,13 @@ a.btn {
 
 	textarea {
 		min-height: 10em;
+	}
+
+	.form-control-boxes {
+		label {
+			display: block;
+			max-width: none;
+			padding: 0;
+		}
 	}
 }
