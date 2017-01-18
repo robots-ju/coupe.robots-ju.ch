@@ -41,6 +41,9 @@ main_menu:
   - title: Résultats 2016
     url: /resultats
     icon: trophy
+  - title: "Suivez-nous"
+    url: https://twitter.com/CoupeRobotsJU
+    icon: twitter
 
 concours:
     finance_inscription: 50
