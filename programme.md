@@ -7,18 +7,21 @@ banner_image: /media/banners/public.jpg
 
 La coupe se déroulera le samedi 11 mars 2017 dans l'auditoire de [StrateJ](http://www.stratej.ch/fr/Le-lieu.html) à Delémont.
 
-Des équipes composées de jeunes de 10 à 16 ans venus de toute la Suisse romande participent à cette édition.
-Ils devront réaliser différentes tâches au cours de la journée, sous les yeux du public. L'entrée est libre.
+**Pour les équipes**: Les équipes se sont [inscrites](/participation) et entraînées en vue de la compétition.
 
-Les horaires exacts viendront prochainement.
+**Pour le public**: Des équipes composées de jeunes de 10 à 16 ans venus de toute la Suisse romande participent à cette édition.
+Vous les verrez réaliser différentes tâches avec des robots LEGO Mindstorms au cours de la journée.
+Les matches de robots sont commentés et diffusés sur grand écran !
 
-## Matin: Live Challenge
+L'entrée est libre. Stands de boissons et patisseries <i class="fa fa-coffee"></i>.
+
+## 10h30 - 12h00: Live Challenge
 
 - La mission à remplir est dévoilée sur place
 - Le temps pour remplir la mission est limité à 1 heure maximum
 - L’équipe doit remplir la mission sans aide extérieure ni coach
 
-## Après-midi: Robot-Game 
+## 13h00 - 17h00: Robot-Game 
 
 - Les matchs se déroulent en 2 ½ minutes
 - Toutes les missions du tapis de jeu peuvent être réalisées
