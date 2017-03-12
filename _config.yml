@@ -38,7 +38,7 @@ main_menu:
   - title: Contact
     url: /contact
     icon: envelope
-  - title: Résultats 2016
+  - title: Résultats
     url: /resultats
     icon: trophy
   - title: "Suivez-nous"
