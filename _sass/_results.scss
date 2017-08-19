@@ -23,6 +23,14 @@
 			&.best-score {
 				font-weight: bold;
 				background: #ddd;
+
+				a {
+					color: inherit;
+				}
+			}
+
+			&.small-title {
+				font-size: 0.8em;
 			}
 		}
 
@@ -43,6 +51,40 @@
 			th, td {
 				border: 1px solid $color-orange;
 			}
+		}
+	}
+}
+
+.content-overlay {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: rgba(0,0,0,0.5);
+	padding: 10px;
+	overflow-y: auto;
+
+	.overlay-modal {
+		margin: 50px auto;
+		width: 100%;
+		max-width: 853px;
+		background: white;
+		box-shadow: 0 0 2px 2px rgba(black, 0.2);
+
+		.overlay-header {
+			background: $color-orange;
+			color: white;
+
+			.close {
+				cursor: pointer;
+			}
+		}
+
+		.overlay-header,
+		.overlay-footer {
+			padding: 15px 25px;
+			text-align: right;
 		}
 	}
 }
