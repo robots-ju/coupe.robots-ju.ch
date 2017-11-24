@@ -10,7 +10,7 @@ banner_image: /media/banners/robotgame.jpg
 
 <h2 class="motto">La coupe de robotique jurassienne</h2>
 
-La 3e édition de la Coupe Robots-JU se déroulera le samedi 24 mars 2018 à Delémont !
+La 3e édition de la Coupe Robots-JU se déroulera le **samedi 24 mars** 2018 à Delémont !
 
 La Coupe est organisée par [Robots-JU](https://robots-ju.ch/), un club de robotique jurassien.
 Des équipes de jeunes de 10 à 16 ans construisent et programment pendant plusieurs mois des robots LEGO Mindstorms.
