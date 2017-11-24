@@ -1,19 +1,14 @@
 ---
-layout: default
+layout: nocontainer
 ---
-<div class="area-content-top" style="{% if page.banner_image %}background-image: url({{ page.banner_image }}){% endif %}">
-	<!-- -->
-</div>
-<div class="area-content-body">
-	<div class="container-main">
-		<section{% if page.section_popup %} class="section-popup"{% endif %}{% if page.section_large %} class="section-large"{% endif %}>
-			<p><strong>Cette page sera prochainement mise à jour pour l'édition 2018 de la Coupe. Les informations de 2017 sont laissées à titre indicatif en attendant.</strong></p>
-			<h1>{{ page.title }}</h1>
 
+<div class="container page">
+	<div class="row">
+		<section class="col-md-6 col-md-offset-3">
+            {% unless page.banner_image %}
+			<h1>{{ page.title }}</h1>
+            {% endunless %}
 			{{ content }}
 		</section>
-	</div>
-	<div class="container-secondary">
-		{% include sponsors.html %}
 	</div>
 </div>

@@ -3,7 +3,6 @@ layout: page
 title: Contact
 permalink: /contact
 banner_image: /media/banners/blackboard.jpg
-section_popup: true
 ---
 
 Utilisez ce formulaire pour contacter les organisateurs de la compétition.
@@ -32,6 +31,6 @@ Utilisez ce formulaire pour contacter les organisateurs de la compétition.
 	</div>
 
 	<div class="form-group actions">
-		<button class="btn" type="submit">Envoyer</button>
+		<button class="btn btn-primary" type="submit">Envoyer</button>
 	</div>
 </form>

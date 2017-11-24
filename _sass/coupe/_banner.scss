@@ -1,0 +1,17 @@
+.banner-image {
+    .banner-text {
+        @media (min-width: $screen-md-min) {
+            min-height: $banner-small-height;
+        }
+
+        h1 {
+            text-transform: uppercase;
+            font-weight: bold;
+            font-size: 1.5em;
+        }
+    }
+}
+
+.page {
+    margin-top: 20px;
+}

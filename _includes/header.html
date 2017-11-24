@@ -1,0 +1,20 @@
+<header>
+    <div class="container">
+        <div class="logo brand-inception">
+            <a href="/">Coupe Robots-JU</a>
+        </div>
+        <ul class="main-menu">
+            {% for link in site.main_menu %}
+            {% assign current = nil %}
+            {% if page.url == link.url %}{% assign current = 'active' %}{% endif %}
+            {% if page.url == '/index.html' and link.url == '/' %}{% assign current = 'active' %}{% endif %}
+            <li>
+                <a href="{{ link.url }}" class="{{ current }}">{{ link.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+        <ul class="member-menu">
+            <li><a href="https://robots-ju.ch/">Club Robots-JU</a></li>
+        </ul>
+    </div>
+</header>

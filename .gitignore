@@ -1,4 +1,6 @@
 /_site
 /nbproject
+/.idea
 /.sass-cache
 *~
+*.lock

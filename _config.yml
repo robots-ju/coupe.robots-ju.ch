@@ -5,45 +5,69 @@ url: "https://coupe.robots-ju.ch"
 
 # Build settings
 markdown: kramdown
+excerpt_separator: <!--more-->
+permalink: /:year/:month/:day/:title
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      banner_image: /media/banners/blackboard.jpg
 sass:
     style: compressed
 
 exclude:
-  - nbproject
+  - Gemfile
   - README.md
-
-collections:
-    news:
-        output: false
 
 main_menu:
   - title: Accueil
     url: /
-    icon: home
   - title: Programme
     url: /programme
-    icon: tasks
   - title: Participer
-    url: /participation
-    icon: check
-  - title: S'entraîner
-    url: /entrainement
-    icon: gamepad
-  - title: Règlement
-    url: /reglement
-    icon: gavel
-  - title: Inscription
-    url: /inscription
-    icon: calendar-check-o
+    url: /equipes/participer
+  - title: Résultats 2017
+    url: /resultats/2017
   - title: Contact
     url: /contact
-    icon: envelope
-  - title: Résultats
-    url: /resultats
-    icon: trophy
-  - title: "Suivez-nous"
+
+sitemap:
+  visitors:
+    - title: Accueil
+      url: /
+    - title: Programme
+      url: /programme
+    - title: Contact
+      url: /contact
+    - title: Sponsoring
+      url: /sponsoring
+    - title: Club Robots-JU
+      url: https://robots-ju.ch/
+  competitors:
+    - title: Participer
+      url: /equipes/participer
+    - title: Règlement
+      url: /equipes/reglement
+    - title: Résultats 2017
+      url: /resultats/2017
+    - title: Résultats 2016
+      url: /resultats/2016
+
+social_links:
+  - title: Twitter
     url: https://twitter.com/CoupeRobotsJU
+    label: "@CoupeRobotsJU"
     icon: twitter
+  - title: Facebook
+    url: https://www.facebook.com/CoupeRobotsJU/
+    label: "@CoupeRobotsJU"
+    icon: facebook
+  - title: YouTube
+    url: https://www.youtube.com/user/robotsju
+    label: /robotsju
+    icon: youtube-play
 
 concours:
     finance_inscription: 50

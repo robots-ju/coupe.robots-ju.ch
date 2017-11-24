@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: widepage
 title: Résultats 2016
-permalink: /resultats-2016
+permalink: /resultats/2016
+redirect_from: /resultats-2016
 banner_image: /media/banners/area.jpg
-section_large: true
 ---
 
 <div class="results-page" markdown="1">

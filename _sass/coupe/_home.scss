@@ -1,0 +1,81 @@
+.banner-home {
+    position: relative;
+    overflow: hidden;
+
+    .landing-video {
+        position: absolute;
+        z-index: -1;
+        top: 0;
+        left: 0;
+        width: 100%;
+
+        @media (max-width: 1400px) {
+            left: -10%;
+            width: 120%;
+        }
+
+        @media (max-width: 1000px) {
+            left: -20%;
+            width: 140%;
+        }
+
+        @media (max-width: $screen-sm-min) {
+            top: auto;
+            bottom: 0; // Éviter d'être sous le menu ou les popups
+        }
+    }
+}
+
+header .container .logo {
+    a, a:hover {
+        min-width: 8.5em;
+        text-indent: -9999px;
+        background-image: url(/media/logo-horizontal.svg);
+        background-size: 6em;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+}
+
+.home-section {
+    background-color: #333;
+    background-image: url(/media/banners/darkpieces.jpg);
+    background-position: center center;
+    background-size: cover;
+    color: $robotsju-color-lightgrey;
+
+    p {
+        text-align: justify;
+    }
+
+    .motto {
+        text-transform: uppercase;
+        font-size: 2em;
+        font-weight: bold;
+        //color: #aaa;
+        margin: 7vh 0;
+
+        @media (min-width: 990px) {
+            font-size: 3em;
+        }
+
+        @media (min-width: 1700px) {
+            font-size: 4.5em;
+        }
+    }
+
+    .links {
+        margin-top: 3vh;
+        text-align: center;
+    }
+
+    .social {
+        font-size: 2.5em;
+
+        a {
+            display: block;
+            padding: 0 0.3em;
+            color: inherit;
+        }
+    }
+}
