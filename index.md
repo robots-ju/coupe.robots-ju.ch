@@ -80,7 +80,7 @@ Lors de la compétition, les robots remplissent en autonomie des missions très 
             <h3><i class="fa fa-list"></i> <a href="/tous-les-posts">Tous les posts</a></h3>
         </section>
         <section class="col-md-4">
-            <a class="twitter-timeline" data-height="2000" href="https://twitter.com/CoupeRobotsJU">Tweets by CoupeRobotsJU</a>
+            <a class="twitter-timeline" data-lang="fr" data-height="2000" href="https://twitter.com/CoupeRobotsJU">Tweets by CoupeRobotsJU</a>
         </section>
     </div>
 </div>
