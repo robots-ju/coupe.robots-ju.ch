@@ -47,9 +47,6 @@ Consulter les [Résultats 2016](/resultats/2016)
 | 8 | ST ROCH         | 112     |
 | 9 | CUB-X           | 106     |
 
-<i class="fa fa-info" aria-hidden="true"></i>
-Le détail des manches du Robot-Game sera publié prochainement
-
 ## Classement Live Challenge
 
 | # | Équipe              | Points |
@@ -64,7 +61,7 @@ Le détail des manches du Robot-Game sera publié prochainement
 | - | ROBOTEENS 2.0       | 12     |
 | 9 | RHINO               | 10     |
 
-### Détail des matches
+## Détail des matches du Robot-Game
 
 Le tableau présente les 40 matches (qualification et finales) disputés lors de la Coupe.
 Les 2 meilleurs matchs de qualification de chaque équipe (retenus pour le classement) sont mis en évidence.
