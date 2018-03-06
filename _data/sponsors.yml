@@ -1,21 +1,24 @@
 - title: Canton du Jura
-  image: /media/sponsors/jura.png
+  image: /media/sponsors/jura.png?v=20180306
   url: https://www.jura.ch/
 - title: bio&co
-  image: /media/sponsors/bioetco.png
+  image: /media/sponsors/bioetco.png?v=20180306
   url: https://www.bioetco.ch/
 - title: SID-Delémont
-  image: /media/sponsors/sid.png
+  image: /media/sponsors/sid.png?v=20180306
   url: http://www.sid-delemont.ch/
 - title: HEP BEJUNE
-  image: /media/sponsors/hep_bejune.png
+  image: /media/sponsors/hep_bejune.png?v=20180306
   url: https://www.hep-bejune.ch/
+- title: Ville de Delémont
+  image: /media/sponsors/delemont.png?v=20180306
+  url: http://www.delemont.ch/
 - title: EducaTec
-  image: /media/sponsors/educatec.png
+  image: /media/sponsors/educatec.png?v=20180306
   url: https://educatec.ch/
 - title: Banque Raiffeisen Delémont
-  image: /media/sponsors/raiffeisen.png
+  image: /media/sponsors/raiffeisen.png?v=20180306
   url: https://www.raiffeisen.ch/
 - title: Joliat traiteur
-  image: /media/sponsors/joliat.jpg
+  image: /media/sponsors/joliat.jpg?v=20180306
   url: https://www.joliattraiteur.ch/
