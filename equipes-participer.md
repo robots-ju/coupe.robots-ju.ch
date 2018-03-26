@@ -23,19 +23,8 @@ dans des clubs de robotique, en famille ou avec des copains…
 
 ## Comment s’inscrire ?
 
-<a class="btn btn-default" href="https://coupe-inscription.robots-ju.ch/">Cliquez ici</a> pour inscrire votre équipe.
-
-Une finance d’inscription de Frs {{ site.concours.finance_inscription }}.- par équipe est perçue.
-La finance ainsi que les frais des repas réservés sont à verser sur le compte suivant:
-
-> Robots-JU, BCJ, `CH46 0078 9042 5634 0652 8`
->
-> Mention: Coupe JU + nom d'équipe
-
-Chaque équipe peut transmettre un logo qui sera affiché sur le classement à côté du nom d'équipe.
-
-Les inscriptions sont gérées exclusivement via la plateforme en ligne accessible à l'adresse <https://coupe-inscription.robots-ju.ch/>.
-Si vous avez une question ou rencontrez un problème contactez-nous via le [formulaire de contact](/contact) ou directement à <info@robots-ju.ch>.
+L'édition 2018 de la Coupe s'est déroulée le 24 mars.
+La date de la prochaine édition sera annoncée plus tard dans l'année.
 
 ## Comment s’entraîner ?
 

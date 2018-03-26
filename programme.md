@@ -5,7 +5,7 @@ permalink: /programme
 banner_image: /media/banners/public.jpg
 ---
 
-La Coupe 2018 se déroulera le samedi 24 mars 2018 dans l'auditoire de [StrateJ](http://www.stratej.ch/fr/Le-lieu.html) à Delémont.
+La Coupe 2018 s'est déroulée le samedi 24 mars 2018 dans l'auditoire de [StrateJ](http://www.stratej.ch/fr/Le-lieu.html) à Delémont.
 
 **Pour les équipes**: Les équipes se sont [inscrites](/equipes/participer) et entraînées en vue de la compétition.
 
