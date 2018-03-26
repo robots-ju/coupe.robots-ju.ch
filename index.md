@@ -17,7 +17,7 @@ Des équipes de jeunes de 10 à 16 ans construisent et programment pendant plusi
 Lors de la compétition, les robots remplissent en autonomie des missions très variées pour marquer des points.
 
 <div class="links">
-  <a class="btn btn-lg btn-primary" href="/programme"><i class="fa fa-tasks" aria-hidden="true"></i> Programme de la journée</a>
+  <a class="btn btn-lg btn-primary" href="/resultats/2018"><i class="fa fa-tasks" aria-hidden="true"></i> Résultats 2018</a>
 </div>
 
 <div class="links">

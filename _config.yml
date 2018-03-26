@@ -28,8 +28,8 @@ main_menu:
     url: /programme
   - title: Participer
     url: /equipes/participer
-  - title: Résultats 2017
-    url: /resultats/2017
+  - title: Résultats 2018
+    url: /resultats/2018
   - title: Contact
     url: /contact
 
@@ -50,6 +50,8 @@ sitemap:
       url: /equipes/participer
     - title: Règlement
       url: /equipes/reglement
+    - title: Résultats 2018
+      url: /resultats/2018
     - title: Résultats 2017
       url: /resultats/2017
     - title: Résultats 2016
