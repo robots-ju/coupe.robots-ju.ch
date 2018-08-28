@@ -23,15 +23,14 @@ dans des clubs de robotique, en famille ou avec des copains…
 
 ## Comment s’inscrire ?
 
-L'édition 2018 de la Coupe s'est déroulée le 24 mars.
-La date de la prochaine édition sera annoncée plus tard dans l'année.
+**Les inscriptions pour l'édition 2019 de la Coupe ouvriront le 15 septembre.**
 
 ## Comment s’entraîner ?
 
 Les équipes doivent disposer de:
 
 - Un Robot LEGO Mindstorms (toute version)
-- Un kit de missions (FLL Hydro Dynamics)
+- Un kit de missions (FLL Into Orbit)
 - La [description des missions](https://sps.epfl.ch/fll-regles)
 
 Quelques kits de missions peuvent être mis à disposition.
