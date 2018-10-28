@@ -12,14 +12,12 @@ banner_image: /media/banners/robotgame.jpg
 
 La 4e édition de la Coupe Robots-JU aura lieu le samedi 23 mars 2019 à Delémont !
 
-Les inscriptions pour les équipes ouvriront le 15 septembre.
-
 La Coupe est organisée par [Robots-JU](https://robots-ju.ch/), un club de robotique jurassien.
 Des équipes de jeunes de 10 à 16 ans construisent et programment pendant plusieurs mois des robots LEGO Mindstorms.
 Lors de la compétition, les robots remplissent en autonomie des missions très variées pour marquer des points.
 
 <div class="links">
-  <a class="btn btn-lg btn-primary" href="/resultats/2018"><i class="fa fa-tasks" aria-hidden="true"></i> Résultats 2018</a>
+  <a class="btn btn-lg btn-primary" href="/programme"><i class="fa fa-tasks" aria-hidden="true"></i> Programme de la journée</a>
 </div>
 
 <div class="links">

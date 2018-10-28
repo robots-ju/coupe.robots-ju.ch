@@ -13,6 +13,8 @@ Bravo à toutes les équipes pour vos excellents résultats !
 <i class="fa fa-link" aria-hidden="true"></i>
 Consulter les Résultats [2016](/resultats/2016) ou [2017](/resultats/2017)
 
+Retrouvez les photos de la journée [sur notre album Flickr](https://www.flickr.com/photos/robots-ju/sets/72157665226069147)
+
 ## Classement général
 
 |  # | Équipe                  | Points |

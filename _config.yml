@@ -24,16 +24,14 @@ exclude:
 main_menu:
   - title: Accueil
     url: /
+  - title: Programme
+    url: /programme
   - title: Participer
     url: /equipes/participer
   - title: Résultats 2018
     url: /resultats/2018
   - title: Contact
     url: /contact
-  - title: Photos (Flickr)
-    url: https://www.flickr.com/photos/robots-ju/sets/72157665226069147
-  - title: Vidéos (YouTube)
-    url: https://www.youtube.com/user/robotsju
 
 sitemap:
   visitors:
