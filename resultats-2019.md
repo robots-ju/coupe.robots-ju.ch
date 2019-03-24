@@ -10,6 +10,8 @@ banner_image: /media/banners/area.jpg
 <i class="fa fa-trophy" aria-hidden="true"></i>
 Bravo à toutes les équipes pour vos excellents résultats !
 
+Retrouvez les photos de la journée [sur notre album Flickr](https://www.flickr.com/photos/robots-ju/sets/72157706162685841)
+
 ## Classement général
 
 |  # | Équipe            | Points |
