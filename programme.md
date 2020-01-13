@@ -5,7 +5,7 @@ permalink: /programme
 banner_image: /media/banners/public.jpg
 ---
 
-La Coupe 2019 se déroulera le samedi 23 mars 2019 dans l'auditoire de [StrateJ](http://www.stratej.ch/fr/Le-lieu.html) à Delémont.
+La Coupe 2019 se déroulera le samedi **4 avril 2020** sur le stand de robotique du [salon interjurassien de la formation 2020](https://www.salon-formation.ch/) à Delémont.
 
 **Pour les équipes**: Les équipes se sont [inscrites](/equipes/participer) et entraînées en vue de la compétition.
 
@@ -13,7 +13,10 @@ La Coupe 2019 se déroulera le samedi 23 mars 2019 dans l'auditoire de [StrateJ]
 Vous les verrez réaliser différentes tâches avec des robots LEGO Mindstorms au cours de la journée.
 Les matches de robots sont commentés et diffusés sur grand écran !
 
-L'entrée est libre. Stands de boissons et patisseries <i class="fa fa-coffee"></i>.
+L'entrée est libre.
+
+Durant les autres journées du salon, Robots-JU organise des concours pour les école. Le dimanche, un concours est ouvert au public.
+Détails sur [la page de la semaine de robotique](https://robots-ju.ch/semaine-robotique-2020).
 
 ## Matin: Live Challenge
 
@@ -31,4 +34,8 @@ L'entrée est libre. Stands de boissons et patisseries <i class="fa fa-coffee"><
 
 ## Lieu
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6428.018904282181!2d7.345569920901154!3d47.36024983203992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4791e7db1d807943%3A0xab12d8b3b7ed5694!2sCampus+Strate+J!5e0!3m2!1sfr!2sch!4v1481034390884" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<address>
+Halle des Expositions<br>
+Rue Emile-Boéchat 60<br>
+2800 Delémont
+</address>

@@ -23,7 +23,11 @@ dans des clubs de robotique, en famille ou avec des copains…
 
 ## Comment s’inscrire ?
 
-Les informations pour l'édition 2020 seront ajoutées prochainement.
+Les inscriptions pour l'édition 2020 ouvriront fin janvier.
+
+Chaque équipe peut transmettre un logo qui sera affiché sur le classement à côté du nom d'équipe.
+
+Les inscriptions seront gérées exclusivement via la plateforme en ligne de Robots-JU.
 
 ## Comment s’entraîner ?
 
@@ -31,7 +35,7 @@ Les équipes doivent disposer de:
 
 - Un Robot LEGO Mindstorms (toute version)
 - Un kit de missions FLL (version de la saison FLL)
-- La [description des missions](https://sps.epfl.ch/fll-regles)
+- La [description des missions](https://www.epfl.ch/education/education-and-science-outreach/fr/jeunepublic/fll/fll-regles/)
 
 Quelques kits de missions peuvent être mis à disposition.
 Les équipes qui en auraient besoin prennent contact avec l’organisateur.
@@ -40,7 +44,7 @@ Les équipes qui en auraient besoin prennent contact avec l’organisateur.
 
 Le jour de la compétion vous aurez besoin:
 
-- Pour le Live Challenge: un ordinateur avec le [logiciel de programmation **LEGO Mindstorms EV3**](https://www.lego.com/fr-fr/mindstorms/downloads/download-software)
+- Pour le Live Challenge: un ordinateur avec le [logiciel de programmation **LEGO Mindstorms EV3**](https://www.lego.com/fr-fr/themes/mindstorms/downloads)
 - Pour le Robot Game: un robot LEGO Mindstorms (toute version)
 
 ## Missions et règlements

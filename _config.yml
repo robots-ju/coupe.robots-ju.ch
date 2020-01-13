@@ -24,14 +24,12 @@ exclude:
 main_menu:
   - title: Accueil
     url: /
+  - title: Programme
+    url: /programme
   - title: Participer
     url: /equipes/participer
   - title: Résultats 2019
     url: /resultats/2019
-  - title: Photos 2019
-    url: https://www.flickr.com/photos/robots-ju/sets/72157706162685841
-  - title: Vidéos 2019
-    url: https://www.youtube.com/playlist?list=PLJd3CiuQpT1wA8gVCHNc3w20uGFMI93P6
   - title: Contact
     url: /contact
 

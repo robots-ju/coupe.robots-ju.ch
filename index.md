@@ -10,15 +10,14 @@ banner_image: /media/banners/robotgame.jpg
 
 <h2 class="motto">La coupe de robotique jurassienne</h2>
 
-La 4e édition de la Coupe Robots-JU s'est déroulée le samedi 23 mars 2019 à Delémont.
-La prochaine édition aura lieu le 4 avril 2020, détails à venir !
+La 5e édition de la Coupe Robots-JU aura lieu le samedi 4 avril 2020 durant le salon de la formation à Delémont, dans le cadre de la semaine de robotique Robots-JU.
 
 La Coupe est organisée par [Robots-JU](https://robots-ju.ch/), un club de robotique jurassien.
 Des équipes de jeunes de 10 à 16 ans construisent et programment pendant plusieurs mois des robots LEGO Mindstorms.
 Lors de la compétition, les robots remplissent en autonomie des missions très variées pour marquer des points.
 
 <div class="links">
-  <a class="btn btn-lg btn-primary" href="/resultats/2019"><i class="fa fa-tasks" aria-hidden="true"></i> Résultats 2019</a>
+  <a class="btn btn-lg btn-primary" href="/programme"><i class="fa fa-tasks" aria-hidden="true"></i> Programme de la journée</a>
 </div>
 
 <div class="links">
