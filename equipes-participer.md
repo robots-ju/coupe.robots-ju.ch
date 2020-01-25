@@ -23,11 +23,19 @@ dans des clubs de robotique, en famille ou avec des copains…
 
 ## Comment s’inscrire ?
 
-Les inscriptions pour l'édition 2020 ouvriront fin janvier.
+<a class="btn btn-default" href="https://events.robots-ju.ch/forms/coupe-2020">Cliquez ici</a> pour inscrire votre équipe.
+
+Une finance d’inscription de Frs {{ site.concours.finance_inscription }}.- par équipe est perçue.
+La finance ainsi est à verser sur le compte suivant:
+
+> Robots-JU, BCJ, `CH56 8000 2000 0138 0068 9`
+>
+> Mention: Coupe JU + nom d'équipe
 
 Chaque équipe peut transmettre un logo qui sera affiché sur le classement à côté du nom d'équipe.
 
-Les inscriptions seront gérées exclusivement via la plateforme en ligne de Robots-JU.
+Les inscriptions sont gérées exclusivement via la plateforme en ligne accessible à l'adresse <https://events.robots-ju.ch/>.
+Si vous avez une question ou rencontrez un problème contactez-nous via le [formulaire de contact](/contact) ou directement à <info@robots-ju.ch>.
 
 ## Comment s’entraîner ?
 
