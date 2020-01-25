@@ -28,7 +28,7 @@ dans des clubs de robotique, en famille ou avec des copains…
 Une finance d’inscription de Frs {{ site.concours.finance_inscription }}.- par équipe est perçue.
 La finance ainsi est à verser sur le compte suivant:
 
-> Robots-JU, BCJ, `CH56 8000 2000 0138 0068 9`
+> Robots-JU, `CH56 8000 2000 0138 0068 9`
 >
 > Mention: Coupe JU + nom d'équipe
 
