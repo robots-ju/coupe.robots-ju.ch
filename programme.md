@@ -34,8 +34,8 @@ Détails sur [la page de la semaine de robotique](https://robots-ju.ch/semaine-r
 
 ## Lieu
 
-<address>
-Halle des Expositions<br>
-Rue Emile-Boéchat 60<br>
-2800 Delémont
-</address>
+[![Salon interjurassien de la formation](/media/sponsors/salon-formation.svg?v=463340267b4fb50c7b200e481b62bc21)](https://www.salon-formation.ch/Infos-pratiques)
+
+> Halle des Expositions<br>
+> Rue Emile-Boéchat 60<br>
+> 2800 Delémont

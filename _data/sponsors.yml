@@ -1,12 +1,15 @@
 - title: Canton du Jura
-  image: /media/sponsors/jura.png?v=20180306
+  image: /media/sponsors/jura-egalite.svg?v=2d41401ae4c1517aa9febb57cfc0ed56
   url: https://www.jura.ch/
 - title: Actemium Suisse SA
-  image: /media/sponsors/actemium.png
+  image: /media/sponsors/actemium.png?v=9efea70efe86c76733831ff0c734eef7
   url: https://www.actemium.ch/
 - title: bio&co
-  image: /media/sponsors/bioetco.png?v=20180306
+  image: /media/sponsors/bioetco.svg?v=f7d938fa6cd9e6b0eb69caf75f1d5140
   url: https://www.bioetco.ch/
 - title: Pibor Iso SA
-  image: /media/sponsors/pibor.png?v=59808b57220357499bb1dc28655e0d16
+  image: /media/sponsors/pibor.svg?v=a9e991bd7d7351d40db740c21eb6928d
   url: https://www.pibor.ch/
+- title: Educatec
+  image: /media/sponsors/educatec.svg?v=25d56d48f9f58b1c77b1ce5b64d68ceb
+  url: https://educatec.ch/
