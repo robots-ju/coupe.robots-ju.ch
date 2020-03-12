@@ -5,7 +5,11 @@ permalink: /programme
 banner_image: /media/banners/public.jpg
 ---
 
-La Coupe 2019 se déroulera le samedi **4 avril 2020** sur le stand de robotique du [salon interjurassien de la formation 2020](https://www.salon-formation.ch/) à Delémont.
+<div class="alert alert-danger" markdown="1">
+La Coupe Robots-JU 2020 est annulée. [Lire le communiqué](/2020/03/12/annulation-coupe-2020).
+</div>
+
+La Coupe 2020 aurait dû se dérouler le samedi **4 avril 2020** sur le stand de robotique du [salon interjurassien de la formation 2020](https://www.salon-formation.ch/) à Delémont.
 
 **Pour les équipes**: Les équipes se sont [inscrites](/equipes/participer) et entraînées en vue de la compétition.
 

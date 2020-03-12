@@ -9,6 +9,10 @@ redirect_from:
 banner_image: /media/banners/table.jpg
 ---
 
+<div class="alert alert-danger" markdown="1">
+La Coupe Robots-JU 2020 est annulée. [Lire le communiqué](/2020/03/12/annulation-coupe-2020).
+</div>
+
 ## Qui peut participer ?
 
 Les jeunes de 10 à 16 ans, regroupés en équipes de 3 à 10 jeunes et encadrés
@@ -23,14 +27,9 @@ dans des clubs de robotique, en famille ou avec des copains…
 
 ## Comment s’inscrire ?
 
-<a class="btn btn-default" href="https://events.robots-ju.ch/forms/coupe-2020">Cliquez ici</a> pour inscrire votre équipe.
+**Le concours est annulé.**
 
 Une finance d’inscription de Frs {{ site.concours.finance_inscription }}.- par équipe est perçue.
-La finance ainsi est à verser sur le compte suivant:
-
-> Robots-JU, `CH56 8000 2000 0138 0068 9`
->
-> Mention: Coupe JU + nom d'équipe
 
 Chaque équipe peut transmettre un logo qui sera affiché sur le classement à côté du nom d'équipe.
 
