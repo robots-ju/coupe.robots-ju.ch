@@ -103,7 +103,7 @@ Cliquer sur un score pour voir le détail des missions effectuées.
 	        {% if table %}
 	        <td title="Match {{ match.number }} {{ match.time }}, table {{ table.table }}, équipe {{ team[1] }}{% if table.best %} (meilleur match de qualification){% endif %}"{% if table.best %} class="best-score"{% endif %}>
 	            {% if table.scoreboard %}
-              <a href="https://fll-scoreboard-2018.robots-ju.ch/#{{ table.scoreboard | jsonify | xml_escape }}" class="js-scoreboard">{{ table.score }}</a>
+              <a href="https://fll-scoreboard.robots-ju.ch/into-orbit#{{ table.scoreboard | jsonify | xml_escape }}" class="js-scoreboard">{{ table.score }}</a>
 	            {% else %}
 	            <a href="#" class="js-missing-scoreboard">{{ table.score }}</a>
 	            {% endif %}

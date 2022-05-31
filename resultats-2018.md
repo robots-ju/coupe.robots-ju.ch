@@ -109,7 +109,7 @@ Cliquer sur un score pour voir le détail des missions effectuées.
 			{% assign table = match.teams[team_key] %}
 	        {% if table %}
 	        <td title="Match {{ match.number }} {{ match.time }}, table {{ table.table }}, équipe {{ team[1] }}{% if table.best %} (meilleur match de qualification){% endif %}"{% if table.best %} class="best-score"{% endif %}>
-	            <a href="https://fll-scoreboard-2017.robots-ju.ch/#{{ table.scoreboard | jsonify | xml_escape }}" class="js-scoreboard">{{ table.score }}</a>
+	            <a href="https://fll-scoreboard.robots-ju.ch/hydro-dynamics#{{ table.scoreboard | jsonify | xml_escape }}" class="js-scoreboard">{{ table.score }}</a>
             </td>
 	        {% else %}
 	        <td></td>
