@@ -71,7 +71,7 @@ social_links:
     label: "@CoupeRobotsJU"
     icon: facebook
   - title: YouTube
-    url: https://www.youtube.com/user/robotsju
+    url: https://www.youtube.com/@RobotsJU
     label: /robotsju
     icon: youtube-play
   - title: Flickr
@@ -81,3 +81,4 @@ social_links:
 
 concours:
     finance_inscription: 60
+    finance_repas: 10

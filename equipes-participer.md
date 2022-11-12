@@ -9,13 +9,9 @@ redirect_from:
 banner_image: /media/banners/table.jpg
 ---
 
-<div class="alert alert-danger" markdown="1">
-La Coupe Robots-JU 2020 est annulée. [Lire le communiqué](/2020/03/12/annulation-coupe-2020).
-</div>
-
 ## Qui peut participer ?
 
-Les jeunes de 10 à 16 ans, regroupés en équipes de 3 à 10 jeunes et encadrés
+Les jeunes de 9 à 16 ans, regroupés en équipes de 3 à 10 jeunes et encadrés
 par un coach ou un adulte responsable de l’équipe.
 
 La compétition est ouverte aux filles et aux garçons.
@@ -27,22 +23,24 @@ dans des clubs de robotique, en famille ou avec des copains…
 
 ## Comment s’inscrire ?
 
-**Le concours est annulé.**
-
-Une finance d’inscription de Frs {{ site.concours.finance_inscription }}.- par équipe est perçue.
+Une finance d’inscription de Frs {{ site.concours.finance_inscription }} CHF par équipe est perçue.
 
 Chaque équipe peut transmettre un logo qui sera affiché sur le classement à côté du nom d'équipe.
 
 Les inscriptions sont gérées exclusivement via la plateforme en ligne accessible à l'adresse <https://events.robots-ju.ch/>.
-Si vous avez une question ou rencontrez un problème contactez-nous via le [formulaire de contact](/contact) ou directement à <info@robots-ju.ch>.
+Si vous avez une question ou rencontrez un problème, contactez-nous via le [formulaire de contact](/contact) ou directement à <info@robots-ju.ch>.
+
+Un repas de midi avec option végétarienne sera disponible pour {{ site.concours.finance_repas }} CHF par personne.
+Le repas doit être réservé à l'avance.
+Un champ à cet effet est disponible dans le formulaire d'inscription.
 
 ## Comment s’entraîner ?
 
 Les équipes doivent disposer de:
 
-- Un Robot LEGO Mindstorms (toute version)
-- Un kit de missions FLL (version de la saison FLL)
-- La [description des missions](https://www.epfl.ch/education/education-and-science-outreach/fr/jeunepublic/fll/fll-regles/)
+- Un Robot LEGO Mindstorms ou Spike (toute version)
+- Un kit de missions FLL (saison FIRST LEGO League Challenge "Super Powered")
+- La [description des missions](https://www.first-lego-league.org/en/2022-23-season/challenge-resources/insights-into-season-materials)
 
 Quelques kits de missions peuvent être mis à disposition.
 Les équipes qui en auraient besoin prennent contact avec l’organisateur.
@@ -51,8 +49,13 @@ Les équipes qui en auraient besoin prennent contact avec l’organisateur.
 
 Le jour de la compétion vous aurez besoin:
 
-- Pour le Live Challenge: un ordinateur avec le [logiciel de programmation **LEGO Mindstorms EV3**](https://www.lego.com/fr-fr/themes/mindstorms/downloads)
-- Pour le Robot Game: un robot LEGO Mindstorms (toute version)
+- Pour le Live Challenge: un ordinateur portable ou tablette avec le [logiciel de programmation LEGO Mindstorms EV3](https://www.lego.com/fr-fr/themes/mindstorms/downloads) (legacy, EV3 Home ou EV3 Classroom) ou [le logiciel de programmation Spike Prime](https://education.lego.com/fr-fr/downloads/spike-app/software).
+- Pour le Robot Game: un robot LEGO Mindstorms ou Spike et vos outils pour les missions.
+
+Un multi-fiche électrique et un accès wifi seront à disposition dans la salle des équipes.
+
+Dans la salle du Live Challenge, l'accès à l'électricité ou wifi ne sont pas garantis.
+Merci de nous avertir si votre PC/tablette ne peut pas fonctionner sur batterie durant ~1h30, nous vous donnerons un emplacement près d'une prise.
 
 ## Missions et règlements
 
