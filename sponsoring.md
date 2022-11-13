@@ -21,7 +21,7 @@ banner_image: /media/sponsoring/ceremony.jpg
 En tant que sponsor, votre marque est visible dans notre arène de compétition, sur le grand écran et diffusion live, sur nos posters et site internet.
 
 Notre public est passionné par la robotique, l'automation et les nouvelles technologies.
-Nos visiteurs sont principalement jurassiens, mais les familles et fans ne nos équipes invitées nous rendent également visite depuis le reste de la Suisse et les pays limitrophes.
+Nos visiteurs sont principalement jurassiens, mais les familles et fans de nos équipes invitées nous rendent également visite depuis le reste de la Suisse et les pays limitrophes.
 
 Différents niveaux de sponsoring sont disponibles.
 

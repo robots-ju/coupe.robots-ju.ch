@@ -28,12 +28,12 @@ L'événement sera également diffusé en direct sur notre [Chaîne YouTube](htt
 
 - Les équipes ont préparé à l'avance un robot pour résoudre une série de missions sur une table de concours
 - Chaque match de 2 ½ minutes met deux équipes en face à face
-- Les équipes tentent de résoudre un maximum de missions durant le temps imparti. Elles peuvent collaborer pour augmenter leur nombre de point
+- Les équipes tentent de résoudre un maximum de missions durant le temps imparti. Elles peuvent collaborer pour augmenter leur nombre de points
 - Les points des deux meilleurs matchs sont additionnés pour former le classement
 - Les quatre premières équipes disputent les demi-finales
 - Les deux premières équipes disputent ensuite la finale
 
-La remise des prix cloture la journée.
+La remise des prix clôture la journée.
 
 ## Lieu
 

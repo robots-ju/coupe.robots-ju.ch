@@ -42,4 +42,4 @@ banner_image: /media/banners/notes.jpg
 
 N'hésitez pas à [nous contacter](/contact) si vous avez des questions.
 
-*Mis à jour le 12 novembre 2023.*
+*Mis à jour le 12 novembre 2022.*
