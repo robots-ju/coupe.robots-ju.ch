@@ -34,6 +34,8 @@ Un repas de midi avec option végétarienne sera disponible pour {{ site.concour
 Le repas doit être réservé à l'avance.
 Un champ à cet effet est disponible dans le formulaire d'inscription.
 
+Les inscriptions sont ouvertes jusqu'au 27 janvier 2023.
+
 ## Comment s’entraîner ?
 
 Les équipes doivent disposer de:
