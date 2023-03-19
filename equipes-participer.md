@@ -9,6 +9,10 @@ redirect_from:
 banner_image: /media/banners/table.jpg
 ---
 
+Les informations ci-dessous s'appliquaient pour l'édition 2023.
+
+La date et les modalités d'inscription pour l'édition 2024 seront annoncées prochainement.
+
 ## Qui peut participer ?
 
 Les jeunes de 9 à 16 ans, regroupés en équipes de 3 à 10 jeunes et encadrés
@@ -23,16 +27,7 @@ dans des clubs de robotique, en famille ou avec des copains…
 
 ## Comment s’inscrire ?
 
-Une finance d’inscription de Frs {{ site.concours.finance_inscription }} CHF par équipe est perçue.
-
-Chaque équipe peut transmettre un logo qui sera affiché sur le classement à côté du nom d'équipe.
-
-Les inscriptions sont gérées exclusivement via la plateforme en ligne accessible à l'adresse <https://events.robots-ju.ch/>.
-Si vous avez une question ou rencontrez un problème, contactez-nous via le [formulaire de contact](/contact) ou directement à <info@robots-ju.ch>.
-
-Un repas de midi avec option végétarienne sera disponible pour {{ site.concours.finance_repas }} CHF par personne.
-Le repas doit être réservé à l'avance.
-Un champ à cet effet est disponible dans le formulaire d'inscription.
+Les inscriptions pour l'édition 2023 sont fermées.
 
 Les inscriptions sont ouvertes jusqu'au 27 janvier 2023.
 

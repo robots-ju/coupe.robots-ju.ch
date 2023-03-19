@@ -5,7 +5,7 @@ permalink: /programme
 banner_image: /media/banners/public.jpg
 ---
 
-La Coupe 2023 se déroulera le samedi 18 mars 2023 dans l'auditoire de [StrateJ](http://www.stratej.ch/fr/Le-lieu.html) à Delémont.
+La Coupe 2023 s'est déroulée le samedi 18 mars 2023 dans l'auditoire de [StrateJ](http://www.stratej.ch/fr/Le-lieu.html) à Delémont.
 
 **Pour les équipes**: Les équipes se sont [inscrites](/equipes/participer) et entraînées en vue de la compétition.
 

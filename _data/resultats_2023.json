@@ -1,0 +1,710 @@
+{
+    "teams": {
+        "jura1": "Jur'arc électrique",
+        "jura2": "Ultra_powered.ju",
+        "jura3": "Les Patates jurassiennes",
+        "juniorsmilebots": "Junior Smilebots",
+        "cfrsblok": "CFR's Blok",
+        "phoenix": "Phoenix",
+        "capricorns": "Capricorns",
+        "backtotheblock": "Back to the Block"
+    },
+    "matches": [
+        {
+            "number": 1,
+            "game": "robotgame",
+            "time": "12:40",
+            "youtube": 0,
+            "teams": {
+                "cfrsblok": {
+                    "table": "A",
+                    "score": 125,
+                    "scoreboard": "11300020000301100000010002"
+                },
+                "jura1": {
+                    "table": "B",
+                    "score": 105,
+                    "scoreboard": "10300020000000000011000004"
+                }
+            }
+        },
+        {
+            "number": 2,
+            "game": "robotgame",
+            "time": "12:50",
+            "youtube": 696,
+            "teams": {
+                "jura3": {
+                    "table": "C",
+                    "score": 90,
+                    "scoreboard": "10000000000011000000000005"
+                },
+                "backtotheblock": {
+                    "table": "D",
+                    "score": 200,
+                    "scoreboard": "11300100000311101010003103"
+                }
+            }
+        },
+        {
+            "number": 3,
+            "game": "robotgame",
+            "time": "12:55",
+            "youtube": 1163,
+            "teams": {
+                "capricorns": {
+                    "table": "A",
+                    "score": 280,
+                    "scoreboard": "11313130000311110300033104",
+                    "best": true
+                },
+                "juniorsmilebots": {
+                    "table": "B",
+                    "score": 265,
+                    "scoreboard": "11003031011310101010000016"
+                }
+            }
+        },
+        {
+            "number": 4,
+            "game": "robotgame",
+            "time": "13:00",
+            "youtube": 1591,
+            "teams": {
+                "phoenix": {
+                    "table": "D",
+                    "score": 250,
+                    "scoreboard": "11300030011311101000032105",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 5,
+            "game": "robotgame",
+            "time": "13:05",
+            "youtube": 1909,
+            "teams": {
+                "jura2": {
+                    "table": "A",
+                    "score": 195,
+                    "scoreboard": "11301031000211100000030004"
+                },
+                "cfrsblok": {
+                    "table": "B",
+                    "score": 155,
+                    "scoreboard": "11300000000310100000003104"
+                }
+            }
+        },
+        {
+            "number": 6,
+            "game": "robotgame",
+            "time": "13:10",
+            "youtube": 2223,
+            "teams": {
+                "jura1": {
+                    "table": "C",
+                    "score": 125,
+                    "scoreboard": "10300120000011000010000004"
+                },
+                "jura3": {
+                    "table": "D",
+                    "score": 85,
+                    "scoreboard": "10000000000201000000000004"
+                }
+            }
+        },
+        {
+            "number": 7,
+            "game": "robotgame",
+            "time": "13:15",
+            "youtube": 2633,
+            "teams": {
+                "backtotheblock": {
+                    "table": "A",
+                    "score": 145,
+                    "scoreboard": "11000000000311101000020003"
+                },
+                "capricorns": {
+                    "table": "B",
+                    "score": 260,
+                    "scoreboard": null
+                }
+            }
+        },
+        {
+            "number": 8,
+            "game": "robotgame",
+            "time": "13:20",
+            "youtube": 3022,
+            "teams": {
+                "juniorsmilebots": {
+                    "table": "C",
+                    "score": 185,
+                    "scoreboard": "11300030000201110000023104"
+                }
+            }
+        },
+        {
+            "number": 9,
+            "game": "robotgame",
+            "time": "13:25",
+            "youtube": 3339,
+            "teams": {
+                "phoenix": {
+                    "table": "A",
+                    "score": 190,
+                    "scoreboard": "11300030010211101000020004"
+                },
+                "jura2": {
+                    "table": "B",
+                    "score": 245,
+                    "scoreboard": "11302131010311100000030005",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 10,
+            "game": "robotgame",
+            "time": "13:40",
+            "youtube": 3626,
+            "teams": {
+                "cfrsblok": {
+                    "table": "C",
+                    "score": 180,
+                    "scoreboard": null,
+                    "best": true
+                },
+                "jura3": {
+                    "table": "D",
+                    "score": 125,
+                    "scoreboard": "10000000000301010000000015",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 11,
+            "game": "robotgame",
+            "time": "13:45",
+            "youtube": 3959,
+            "teams": {
+                "backtotheblock": {
+                    "table": "A",
+                    "score": 105,
+                    "scoreboard": "10000000000311001000000002"
+                },
+                "juniorsmilebots": {
+                    "table": "B",
+                    "score": 340,
+                    "scoreboard": null,
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 12,
+            "game": "robotgame",
+            "time": "13:50",
+            "youtube": 4432,
+            "teams": {
+                "jura2": {
+                    "table": "D",
+                    "score": 175,
+                    "scoreboard": "11300130000201100000030005"
+                }
+            }
+        },
+        {
+            "number": 13,
+            "game": "robotgame",
+            "time": "13:55",
+            "youtube": 4662,
+            "teams": {
+                "jura1": {
+                    "table": "A",
+                    "score": 165,
+                    "scoreboard": "11300021000001000310000004"
+                },
+                "phoenix": {
+                    "table": "B",
+                    "score": 180,
+                    "scoreboard": "11000030000211100000022105"
+                }
+            }
+        },
+        {
+            "number": 14,
+            "game": "robotgame",
+            "time": "14:00",
+            "youtube": 5068,
+            "teams": {
+                "capricorns": {
+                    "table": "C",
+                    "score": 40,
+                    "scoreboard": "10000000000011000000000000"
+                },
+                "jura3": {
+                    "table": "D",
+                    "score": 110,
+                    "scoreboard": "10000000000211000000000005"
+                }
+            }
+        },
+        {
+            "number": 15,
+            "game": "robotgame",
+            "time": "14:05",
+            "youtube": 5297,
+            "teams": {
+                "cfrsblok": {
+                    "table": "A",
+                    "score": 130,
+                    "scoreboard": "10300021000310100000000002"
+                },
+                "backtotheblock": {
+                    "table": "B",
+                    "score": 215,
+                    "scoreboard": "10300030000211101110001106"
+                }
+            }
+        },
+        {
+            "number": 16,
+            "game": "robotgame",
+            "time": "14:10",
+            "youtube": 5529,
+            "teams": {
+                "jura3": {
+                    "table": "C",
+                    "score": 120,
+                    "scoreboard": null,
+                    "best": true
+                },
+                "juniorsmilebots": {
+                    "table": "D",
+                    "score": 285,
+                    "scoreboard": null
+                }
+            }
+        },
+        {
+            "number": 17,
+            "game": "robotgame",
+            "time": "14:15",
+            "youtube": 5892,
+            "teams": {
+                "capricorns": {
+                    "table": "A",
+                    "score": 280,
+                    "scoreboard": "11301031110211101300032104",
+                    "best": true
+                },
+                "phoenix": {
+                    "table": "B",
+                    "score": 230,
+                    "scoreboard": "11300031110211100000021106"
+                }
+            }
+        },
+        {
+            "number": 18,
+            "game": "robotgame",
+            "time": "14:20",
+            "youtube": 5588,
+            "teams": {
+                "jura2": {
+                    "table": "C",
+                    "score": 120,
+                    "scoreboard": "11000030000011100000030003"
+                },
+                "jura1": {
+                    "table": "D",
+                    "score": 180,
+                    "scoreboard": null
+                }
+            }
+        },
+        {
+            "number": 19,
+            "game": "robotgame",
+            "time": "14:40",
+            "youtube": 6470,
+            "teams": {
+                "cfrsblok": {
+                    "table": "A",
+                    "score": 160,
+                    "scoreboard": "11300000000210110100003104"
+                },
+                "capricorns": {
+                    "table": "B",
+                    "score": 255,
+                    "scoreboard": "11003030010311110110121104"
+                }
+            }
+        },
+        {
+            "number": 20,
+            "game": "robotgame",
+            "time": "14:45",
+            "youtube": 6886,
+            "teams": {
+                "backtotheblock": {
+                    "table": "C",
+                    "score": 225,
+                    "scoreboard": "11000120011311101000022106"
+                },
+                "jura1": {
+                    "table": "D",
+                    "score": 210,
+                    "scoreboard": null,
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 21,
+            "game": "robotgame",
+            "time": "14:50",
+            "youtube": 7090,
+            "teams": {
+                "juniorsmilebots": {
+                    "table": "A",
+                    "score": 335,
+                    "scoreboard": "11203031111311101210011136"
+                },
+                "jura2": {
+                    "table": "B",
+                    "score": 170,
+                    "scoreboard": "11300131100011100000030003"
+                }
+            }
+        },
+        {
+            "number": 22,
+            "game": "robotgame",
+            "time": "14:55",
+            "youtube": 7447,
+            "teams": {
+                "jura3": {
+                    "table": "C",
+                    "score": 120,
+                    "scoreboard": "10000000000311000000000005"
+                }
+            }
+        },
+        {
+            "number": 23,
+            "game": "robotgame",
+            "time": "15:00",
+            "youtube": 7718,
+            "teams": {
+                "phoenix": {
+                    "table": "A",
+                    "score": 235,
+                    "scoreboard": "11300030010311101000022106"
+                },
+                "backtotheblock": {
+                    "table": "B",
+                    "score": 220,
+                    "scoreboard": "11000110011211101010002105"
+                }
+            }
+        },
+        {
+            "number": 24,
+            "game": "robotgame",
+            "time": "15:05",
+            "youtube": 8074,
+            "teams": {
+                "cfrsblok": {
+                    "table": "C",
+                    "score": 160,
+                    "scoreboard": "11300030000310100100012102"
+                },
+                "juniorsmilebots": {
+                    "table": "D",
+                    "score": 305,
+                    "scoreboard": null
+                }
+            }
+        },
+        {
+            "number": 25,
+            "game": "robotgame",
+            "time": "15:10",
+            "youtube": 8459,
+            "teams": {
+                "backtotheblock": {
+                    "table": "A",
+                    "score": 310,
+                    "scoreboard": "11300131111311101010033105",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 26,
+            "game": "robotgame",
+            "time": "15:15",
+            "youtube": 8708,
+            "teams": {
+                "jura3": {
+                    "table": "C",
+                    "score": 120,
+                    "scoreboard": "10000000000311000000000005"
+                },
+                "phoenix": {
+                    "table": "D",
+                    "score": 260,
+                    "scoreboard": null,
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 27,
+            "game": "robotgame",
+            "time": "15:20",
+            "youtube": 8968,
+            "teams": {
+                "jura2": {
+                    "table": "A",
+                    "score": 190,
+                    "scoreboard": "11300031000111100000030005"
+                },
+                "capricorns": {
+                    "table": "B",
+                    "score": 205,
+                    "scoreboard": "10003130010311100110000004"
+                }
+            }
+        },
+        {
+            "number": 28,
+            "game": "robotgame",
+            "time": "15:35",
+            "youtube": 10183,
+            "teams": {
+                "jura1": {
+                    "table": "C",
+                    "score": 205,
+                    "scoreboard": "11100031000011100311001104"
+                },
+                "capricorns": {
+                    "table": "D",
+                    "score": 270,
+                    "scoreboard": null
+                }
+            }
+        },
+        {
+            "number": 29,
+            "game": "robotgame",
+            "time": "15:40",
+            "youtube": 10414,
+            "teams": {
+                "cfrsblok": {
+                    "table": "B",
+                    "score": 170,
+                    "scoreboard": "11200000000111100300001106",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 30,
+            "game": "robotgame",
+            "time": "15:45",
+            "youtube": 10672,
+            "teams": {
+                "juniorsmilebots": {
+                    "table": "C",
+                    "score": 330,
+                    "scoreboard": "11302130011311101310031136"
+                },
+                "phoenix": {
+                    "table": "D",
+                    "score": 230,
+                    "scoreboard": "11000030010311101010023104"
+                }
+            }
+        },
+        {
+            "number": 31,
+            "game": "robotgame",
+            "time": "15:50",
+            "youtube": 10969,
+            "teams": {
+                "jura2": {
+                    "table": "A",
+                    "score": 220,
+                    "scoreboard": "11302030000311110000030005",
+                    "best": true
+                },
+                "backtotheblock": {
+                    "table": "B",
+                    "score": 245,
+                    "scoreboard": "11300130010311101000023105",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 32,
+            "game": "robotgame",
+            "time": "15:55",
+            "youtube": 11237,
+            "teams": {
+                "juniorsmilebots": {
+                    "table": "C",
+                    "score": 340,
+                    "scoreboard": "11203131011310101310021135",
+                    "best": true
+                },
+                "jura1": {
+                    "table": "D",
+                    "score": 180,
+                    "scoreboard": "11300110000011100310001104"
+                }
+            }
+        },
+        {
+            "number": 33,
+            "game": "robotgame",
+            "time": "16:00",
+            "youtube": 11532,
+            "teams": {
+                "capricorns": {
+                    "table": "A",
+                    "score": 185,
+                    "scoreboard": "10300130010311110101000004"
+                }
+            }
+        },
+        {
+            "number": 34,
+            "game": "robotgame",
+            "time": "16:05",
+            "youtube": 11812,
+            "teams": {
+                "phoenix": {
+                    "table": "C",
+                    "score": 200,
+                    "scoreboard": "11300030000311110000031104"
+                },
+                "cfrsblok": {
+                    "table": "D",
+                    "score": 105,
+                    "scoreboard": "10000000000311110000000002"
+                }
+            }
+        },
+        {
+            "number": 35,
+            "game": "robotgame",
+            "time": "16:10",
+            "youtube": 11998,
+            "teams": {
+                "jura3": {
+                    "table": "A",
+                    "score": 120,
+                    "scoreboard": "10000020000111100000000006"
+                },
+                "jura2": {
+                    "table": "B",
+                    "score": 120,
+                    "scoreboard": "11000030000011100000030003"
+                }
+            }
+        },
+        {
+            "number": 36,
+            "game": "robotgame",
+            "time": "16:15",
+            "youtube": 12400,
+            "teams": {
+                "jura1": {
+                    "table": "C",
+                    "score": 235,
+                    "scoreboard": "11300120010011101311001106",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 37,
+            "game": "semifinals",
+            "time": "16:30",
+            "youtube": 13783,
+            "teams": {
+                "juniorsmilebots": {
+                    "table": "C",
+                    "score": 350,
+                    "scoreboard": "11302131011311101310031136"
+                },
+                "phoenix": {
+                    "table": "D",
+                    "score": 110,
+                    "scoreboard": "11100030000011100000020002"
+                }
+            }
+        },
+        {
+            "number": 38,
+            "game": "semifinals",
+            "time": "16:35",
+            "youtube": 14018,
+            "teams": {
+                "capricorns": {
+                    "table": "A",
+                    "score": 320,
+                    "scoreboard": "11303130010311101310230006"
+                },
+                "backtotheblock": {
+                    "table": "B",
+                    "score": 245,
+                    "scoreboard": "11300030010311101000033105"
+                }
+            }
+        },
+        {
+            "number": 39,
+            "game": "finals",
+            "time": "16:50",
+            "youtube": 14860,
+            "teams": {
+                "juniorsmilebots": {
+                    "table": "A",
+                    "score": 345,
+                    "scoreboard": "11303131011311101310030036"
+                },
+                "capricorns": {
+                    "table": "B",
+                    "score": 335,
+                    "scoreboard": "11313130010311101311230006"
+                }
+            }
+        },
+        {
+            "number": 40,
+            "game": "finals",
+            "time": "16:55",
+            "youtube": 15389,
+            "teams": {
+                "capricorns": {
+                    "table": "A",
+                    "score": 300,
+                    "scoreboard": "11203130010311101111231104"
+                },
+                "juniorsmilebots": {
+                    "table": "B",
+                    "score": 310,
+                    "scoreboard": "11303131000111101310031116"
+                }
+            }
+        }
+    ]
+}
