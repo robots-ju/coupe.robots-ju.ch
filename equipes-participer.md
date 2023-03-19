@@ -29,8 +29,6 @@ dans des clubs de robotique, en famille ou avec des copains…
 
 Les inscriptions pour l'édition 2023 sont fermées.
 
-Les inscriptions sont ouvertes jusqu'au 27 janvier 2023.
-
 ## Comment s’entraîner ?
 
 Les équipes doivent disposer de:
