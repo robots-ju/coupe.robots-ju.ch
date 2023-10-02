@@ -5,7 +5,7 @@ permalink: /programme
 banner_image: /media/banners/public.jpg
 ---
 
-La Coupe 2023 s'est déroulée le samedi 18 mars 2023 dans l'auditoire de [StrateJ](http://www.stratej.ch/fr/Le-lieu.html) à Delémont.
+La Coupe 2024 se déroulera le samedi 2 mars 2024 au Forum de l'Arc à Moutier dans le cadre du [Salon interjurassien de la formation](https://www.salon-formation.ch/).
 
 **Pour les équipes**: Les équipes se sont [inscrites](/equipes/participer) et entraînées en vue de la compétition.
 
@@ -13,7 +13,7 @@ La Coupe 2023 s'est déroulée le samedi 18 mars 2023 dans l'auditoire de [Strat
 Vous les verrez réaliser différentes tâches avec des robots LEGO Mindstorms au cours de la journée.
 Les matches de robots sont commentés et diffusés sur grand écran !
 
-L'entrée est libre. Stands de boissons et patisseries <i class="fa fa-coffee"></i>.
+L'entrée est libre.
 
 L'événement sera également diffusé en direct sur notre [Chaîne YouTube](https://www.youtube.com/@RobotsJU).
 
@@ -37,4 +37,9 @@ La remise des prix clôture la journée.
 
 ## Lieu
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6428.018904282181!2d7.345569920901154!3d47.36024983203992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4791e7db1d807943%3A0xab12d8b3b7ed5694!2sCampus+Strate+J!5e0!3m2!1sfr!2sch!4v1481034390884" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+Forum de l'Arc<br>
+Rue Industrielle 98<br>
+2740 Moutier
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11146.271934540127!2d7.353626582683677!3d47.27056410369662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4791de2019970935%3A0x54639a4aa00657a3!2sForum%20de%20l&#39;Arc!5e0!3m2!1sfr!2sch!4v1695463431673!5m2!1sfr!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+

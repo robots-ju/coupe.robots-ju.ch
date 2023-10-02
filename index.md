@@ -10,7 +10,7 @@ banner_image: /media/banners/robotgame.jpg
 
 <h2 class="motto">La coupe de robotique jurassienne</h2>
 
-La 5e édition de la Coupe Robots-JU a eu lieu le samedi 18 mars 2023 à Delémont.
+La 6e édition de la Coupe Robots-JU aura lieu le samedi 2 mars 2024 à Moutier.
 
 La Coupe est organisée par [Robots-JU](https://robots-ju.ch/), un club de robotique jurassien.
 Des équipes de jeunes de 9 à 16 ans construisent et programment pendant plusieurs mois des robots LEGO Mindstorms.
