@@ -54,7 +54,7 @@ Lors de la compétition, les robots remplissent en autonomie des missions très 
 
 <div class="container page">
     <div class="row">
-        <section class="col-md-8">
+        <section class="col-md-8 col-md-push-2">
             <h2>Dernières news</h2>
             <div class="row">
                 {% for post in site.posts limit:6 %}
@@ -79,10 +79,5 @@ Lors de la compétition, les robots remplissent en autonomie des missions très 
             </div>
             <h3><i class="fa fa-list"></i> <a href="/tous-les-posts">Tous les posts</a></h3>
         </section>
-        <section class="col-md-4">
-            <a class="twitter-timeline" data-lang="fr" data-height="2000" href="https://twitter.com/CoupeRobotsJU">Tweets by CoupeRobotsJU</a>
-        </section>
     </div>
 </div>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

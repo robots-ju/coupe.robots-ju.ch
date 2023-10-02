@@ -1,5 +1,7 @@
 /_site
 /nbproject
+/vendor
+/.bundle
 /.idea
 /.sass-cache
 *~

@@ -18,8 +18,10 @@ sass:
     style: compressed
 
 exclude:
+  - vendor
   - Gemfile
-  - README.md
+  - Gemfile.lock
+  - README.mds
 
 main_menu:
   - title: Accueil
@@ -64,7 +66,7 @@ sitemap:
       url: /resultats/2016
 
 social_links:
-  - title: Twitter
+  - title: Twitter/X
     url: https://twitter.com/CoupeRobotsJU
     label: "@CoupeRobotsJU"
     icon: twitter
