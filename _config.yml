@@ -30,8 +30,8 @@ main_menu:
     url: /programme
   - title: Participer
     url: /equipes/participer
-  - title: Résultats 2023
-    url: /resultats/2023
+  - title: Résultats 2024
+    url: /resultats/2024
   - title: Contact
     url: /contact
 
@@ -54,6 +54,8 @@ sitemap:
       url: /equipes/participer
     - title: Règlement
       url: /equipes/reglement
+    - title: Résultats 2024
+      url: /resultats/2024
     - title: Résultats 2023
       url: /resultats/2023
     - title: Résultats 2019

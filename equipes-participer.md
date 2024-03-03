@@ -23,25 +23,14 @@ dans des clubs de robotique, en famille ou avec des copains…
 
 ## Comment s’inscrire ?
 
-Une finance d’inscription de {{ site.concours.finance_inscription }} CHF par équipe est perçue.
-
-Chaque équipe peut transmettre un logo qui sera affiché sur le classement à côté du nom d'équipe.
-
-Les inscriptions sont gérées exclusivement via la plateforme en ligne accessible à l'adresse <https://events.robots-ju.ch/>.
-Si vous avez une question ou rencontrez un problème, contactez-nous via le [formulaire de contact](/contact) ou directement à <info@robots-ju.ch>.
-
-Cette année nous n'organisons pas de repas.
-Il y aura des options de restauration sur place organisées par le salon de la formation.
-Détails à suivre.
-
-Les inscriptions sont ouvertes jusqu'à fin janvier 2024.
+L'édition 2025 sera annoncée prochainement.
 
 ## Comment s’entraîner ?
 
 Les équipes doivent disposer de:
 
 - Un Robot LEGO Mindstorms ou Spike (toute version)
-- Un kit de missions FLL (saison FIRST LEGO League Challenge "MASTERPIECE")
+- Un kit de missions FLL
 - La [description des missions](https://www.first-lego-league.org/en/2023-24-season/season-documents)
 
 Quelques kits de missions peuvent être mis à disposition.

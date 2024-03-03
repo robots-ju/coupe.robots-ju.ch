@@ -5,7 +5,7 @@ permalink: /programme
 banner_image: /media/banners/public.jpg
 ---
 
-La Coupe 2024 se déroulera le samedi 2 mars 2024 au Forum de l'Arc à Moutier dans le cadre du [Salon interjurassien de la formation](https://www.salon-formation.ch/).
+La Coupe 2024 s'est déroulée le samedi 2 mars 2024 au Forum de l'Arc à Moutier dans le cadre du [Salon interjurassien de la formation](https://www.salon-formation.ch/).
 
 **Pour les équipes**: Les équipes se sont [inscrites](/equipes/participer) et entraînées en vue de la compétition.
 

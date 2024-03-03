@@ -1,0 +1,452 @@
+{
+    "teams": {
+        "phoenix": "Phoenix",
+        "parechocs": "Master Pare_chocs.JU",
+        "roch1": "Saint-Roch I",
+        "patatartiner": "Patatartiner jurassiennes",
+        "cfrsbrik": "CFR's Brik",
+        "jurartiste": "Jurartiste",
+        "backtotheblock": "Back to the Block"
+    },
+    "matches": [
+        {
+            "number": 1,
+            "game": "robotgame",
+            "time": "13:30",
+            "teams": {
+                "phoenix": {
+                    "table": "A",
+                    "score": 205,
+                    "scoreboard": "101001101110000000017114"
+                },
+                "parechocs": {
+                    "table": "B",
+                    "score": 200,
+                    "scoreboard": "102000001000100000117125",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 2,
+            "game": "robotgame",
+            "time": "13:40",
+            "teams": {
+                "roch1": {
+                    "table": "C",
+                    "score": 280,
+                    "scoreboard": "100100111010003310014235"
+                },
+                "patatartiner": {
+                    "table": "D",
+                    "score": 140,
+                    "scoreboard": "110000001010000000010006",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 3,
+            "game": "robotgame",
+            "time": "13:45",
+            "teams": {
+                "cfrsbrik": {
+                    "table": "A",
+                    "score": 280,
+                    "scoreboard": "112110001113110000011106"
+                },
+                "jurartiste": {
+                    "table": "B",
+                    "score": 180,
+                    "scoreboard": "112110000000000000010005",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 4,
+            "game": "robotgame",
+            "time": "13:50",
+            "teams": {
+                "backtotheblock": {
+                    "table": "C",
+                    "score": 230,
+                    "scoreboard": "101101000013110000004416"
+                },
+                "phoenix": {
+                    "table": "D",
+                    "score": 95,
+                    "scoreboard": "100101000003000000000004"
+                }
+            }
+        },
+        {
+            "number": 5,
+            "game": "robotgame",
+            "time": "13:55",
+            "teams": {
+                "parechocs": {
+                    "table": "A",
+                    "score": 210,
+                    "scoreboard": "102100001000100000017115",
+                    "best": true
+                },
+                "jurartiste": {
+                    "table": "B",
+                    "score": 180,
+                    "scoreboard": "112110000000000000010005",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 6,
+            "game": "robotgame",
+            "time": "14:00",
+            "teams": {
+                "cfrsbrik": {
+                    "table": "C",
+                    "score": 200,
+                    "scoreboard": "112010001010110000010005"
+                },
+                "roch1": {
+                    "table": "D",
+                    "score": 350,
+                    "scoreboard": "110011111013000111014235"
+                }
+            }
+        },
+        {
+            "number": 7,
+            "game": "robotgame",
+            "time": "14:05",
+            "teams": {
+                "patatartiner": {
+                    "table": "A",
+                    "score": 150,
+                    "scoreboard": "111000001010000000010005",
+                    "best": true
+                },
+                "backtotheblock": {
+                    "table": "B",
+                    "score": 375,
+                    "scoreboard": "103001110013102300017625",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 8,
+            "game": "robotgame",
+            "time": "14:15",
+            "teams": {
+                "parechocs": {
+                    "table": "C",
+                    "score": 175,
+                    "scoreboard": "102100001000000000115104"
+                },
+                "roch1": {
+                    "table": "D",
+                    "score": 445,
+                    "scoreboard": "112111111013113210015236",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 9,
+            "game": "robotgame",
+            "time": "14:20",
+            "teams": {
+                "patatartiner": {
+                    "table": "A",
+                    "score": 120,
+                    "scoreboard": "100000001010000000010005"
+                },
+                "cfrsbrik": {
+                    "table": "B",
+                    "score": 330,
+                    "scoreboard": "112011101113110000117115",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 10,
+            "game": "robotgame",
+            "time": "14:25",
+            "teams": {
+                "jurartiste": {
+                    "table": "C",
+                    "score": 150,
+                    "scoreboard": "112010000000000000010005"
+                },
+                "backtotheblock": {
+                    "table": "D",
+                    "score": 255,
+                    "scoreboard": "101001000013113300007503"
+                }
+            }
+        },
+        {
+            "number": 11,
+            "game": "robotgame",
+            "time": "14:30",
+            "teams": {
+                "phoenix": {
+                    "table": "A",
+                    "score": 35,
+                    "scoreboard": "100000000000000000000002"
+                },
+                "roch1": {
+                    "table": "B",
+                    "score": 380,
+                    "scoreboard": "113011111010113010017326"
+                }
+            }
+        },
+        {
+            "number": 12,
+            "game": "robotgame",
+            "time": "14:35",
+            "teams": {
+                "patatartiner": {
+                    "table": "C",
+                    "score": 140,
+                    "scoreboard": "100000001010100010010006"
+                },
+                "parechocs": {
+                    "table": "D",
+                    "score": 125,
+                    "scoreboard": "102000001000000000110014"
+                }
+            }
+        },
+        {
+            "number": 13,
+            "game": "robotgame",
+            "time": "14:40",
+            "teams": {
+                "cfrsbrik": {
+                    "table": "A",
+                    "score": 300,
+                    "scoreboard": "111010010003110310015115"
+                },
+                "backtotheblock": {
+                    "table": "B",
+                    "score": 325,
+                    "scoreboard": "103011100013100100017625"
+                }
+            }
+        },
+        {
+            "number": 14,
+            "game": "robotgame",
+            "time": "14:45",
+            "teams": {
+                "phoenix": {
+                    "table": "C",
+                    "score": 290,
+                    "scoreboard": "103111110002010000017115",
+                    "best": true
+                },
+                "jurartiste": {
+                    "table": "D",
+                    "score": 150,
+                    "scoreboard": "113100000000000000010005"
+                }
+            }
+        },
+        {
+            "number": 15,
+            "game": "robotgame",
+            "time": "14:55",
+            "teams": {
+                "roch1": {
+                    "table": "A",
+                    "score": 400,
+                    "scoreboard": "113011111002003310017336"
+                },
+                "backtotheblock": {
+                    "table": "B",
+                    "score": 270,
+                    "scoreboard": "102001100012100310013315"
+                }
+            }
+        },
+        {
+            "number": 16,
+            "game": "robotgame",
+            "time": "15:00",
+            "teams": {
+                "cfrsbrik": {
+                    "table": "C",
+                    "score": 350,
+                    "scoreboard": "112011111112110000117116",
+                    "best": true
+                },
+                "parechocs": {
+                    "table": "D",
+                    "score": 200,
+                    "scoreboard": "101000001000100000117135"
+                }
+            }
+        },
+        {
+            "number": 17,
+            "game": "robotgame",
+            "time": "15:05",
+            "teams": {
+                "jurartiste": {
+                    "table": "A",
+                    "score": 130,
+                    "scoreboard": "112000000000000000010005"
+                },
+                "patatartiner": {
+                    "table": "B",
+                    "score": 140,
+                    "scoreboard": "110000001010000000010005"
+                }
+            }
+        },
+        {
+            "number": 18,
+            "game": "robotgame",
+            "time": "15:10",
+            "teams": {
+                "phoenix": {
+                    "table": "C",
+                    "score": 290,
+                    "scoreboard": "103011111011000000017115"
+                },
+                "cfrsbrik": {
+                    "table": "D",
+                    "score": 330,
+                    "scoreboard": "111011101113110100117115"
+                }
+            }
+        },
+        {
+            "number": 19,
+            "game": "robotgame",
+            "time": "15:15",
+            "teams": {
+                "backtotheblock": {
+                    "table": "A",
+                    "score": 370,
+                    "scoreboard": "113011000013103111117505",
+                    "best": true
+                },
+                "parechocs": {
+                    "table": "B",
+                    "score": 195,
+                    "scoreboard": "102000001000100000117134"
+                }
+            }
+        },
+        {
+            "number": 20,
+            "game": "robotgame",
+            "time": "15:20",
+            "teams": {
+                "roch1": {
+                    "table": "C",
+                    "score": 450,
+                    "scoreboard": "113111111013113111017326",
+                    "best": true
+                },
+                "jurartiste": {
+                    "table": "D",
+                    "score": 170,
+                    "scoreboard": "113110000000000000010005"
+                }
+            }
+        },
+        {
+            "number": 21,
+            "game": "robotgame",
+            "time": "15:25",
+            "teams": {
+                "patatartiner": {
+                    "table": "A",
+                    "score": 135,
+                    "scoreboard": "110000001010100000010004"
+                },
+                "phoenix": {
+                    "table": "B",
+                    "score": 310,
+                    "scoreboard": "103011111013000000017115",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 22,
+            "game": "semifinals",
+            "time": "15:40",
+            "teams": {
+                "roch1": {
+                    "table": "C",
+                    "score": 340,
+                    "scoreboard": "113011111010000111016216"
+                },
+                "phoenix": {
+                    "table": "D",
+                    "score": 250,
+                    "scoreboard": "102011101110000000017115"
+                }
+            }
+        },
+        {
+            "number": 23,
+            "game": "semifinals",
+            "time": "15:45",
+            "teams": {
+                "backtotheblock": {
+                    "table": "A",
+                    "score": 325,
+                    "scoreboard": "113001000013110311114414"
+                },
+                "cfrsbrik": {
+                    "table": "B",
+                    "score": 340,
+                    "scoreboard": "112011111003000310017116"
+                }
+            }
+        },
+        {
+            "number": 24,
+            "game": "finals",
+            "time": "16:00",
+            "teams": {
+                "roch1": {
+                    "table": "A",
+                    "score": 400,
+                    "scoreboard": "113001111002112211017335"
+                },
+                "cfrsbrik": {
+                    "table": "B",
+                    "score": 225,
+                    "scoreboard": "112010011103110010000004"
+                }
+            }
+        },
+        {
+            "number": 25,
+            "game": "finals",
+            "time": "16:10",
+            "teams": {
+                "cfrsbrik": {
+                    "table": "A",
+                    "score": 240,
+                    "scoreboard": "111010011110110000110005"
+                },
+                "roch1": {
+                    "table": "B",
+                    "score": 360,
+                    "scoreboard": "103001111010113110017336"
+                }
+            }
+        }
+    ]
+}
