@@ -36,3 +36,8 @@ body {
 article img {
     max-width: 100%;
 }
+
+.page h3::before {
+    content: '# ';
+    color: #bbb;
+}

@@ -6,43 +6,50 @@ redirect_from: /reglement
 banner_image: /media/banners/notes.jpg
 ---
 
-# Règlement de l'édition 2024
+# Règlement de l'édition 2025
 
-## Composition des équipes
+## Catégorie Ingénieur
+
+### Composition des équipes
 
 - Une équipe est composée de 3 à 10 jeunes.
 - Les membres de l'équipe doivent avoir entre 9 et 16 ans au 1er janvier.
 - L'équipe est accompagnée par au moins 1 adulte.
 - La participation est confirmée après paiement de la finance d'inscription.
 
-## Épreuve: Live Challenge
+### Épreuve: Live Challenge
 
 - Le détail de la mission à remplir sera dévoilé sur place juste avant le début de l'épreuve.
 - L’équipe devra construire et programmer un robot LEGO Mindstorms Spike ou EV3 (choisi à l'avance) dans un temps limité et sans aide extérieure.
 - Vous devrez programmer le robot avec votre **propre PC ou tablette**. Vérifiez qu'il est équipé du [logiciel adapté](https://www.lego.com/fr-fr/themes/mindstorms/downloads) pour le modèle de robot choisi.
 - Le nombre de prises électriques est limité durant cette épreuve. Avertissez-nous si votre PC ne peut pas fonctionner sur batterie durant ~1h30.
 
-## Épreuve: Robot-Game
+### Épreuve: Robot-Game
 
-- Les équipes préparent les missions de la saison FIRST LEGO League Challenge "MASTERPIECE".
-- Le [règlement du Robot-Game FLL](https://www.first-lego-league.org/en/2023-24-season/season-documents) publié par Hands-on Technology en anglais fera foi.
-- Le décompte des points se fait au moyen du Robots-JU FLL Scoreboard 2023. L'outil sera mis à disposition des équipes dans le courant de décembre.
+- Les équipes préparent les missions de la saison FIRST LEGO League Challenge "SUBMERGED".
+- Le [règlement du Robot-Game FLL](https://www.first-lego-league.org/en/2024-25-season/challenge-resources/season-documents) publié par Hands-on Technology en anglais fera foi.
+- Le décompte des points se fait au moyen du "Robots-JU FLL Scoreboard 2024", accessible à l'adresse <https://fll-scoreboard.robots-ju.ch/submerged>
 - Le score est basé sur l'addition des deux meilleurs matches.
 - Les 4 meilleures équipes disputent la demi-finale. Les deux meilleures équipes disputent la finale.
 
-## Classement
+### Classement
 
 - Un trophée est remis au vainqueur du Robot-Game et à la meilleure équipe de la Coupe.
 - Le Live Challenge et le Robot-Game ont la même importance au classement général.
 
-## Coupe de Suisse
+## Catégorie Explorateur
 
-Cette section sera mise à jour lorsque le concours de Lugano sera annoncé.
+### Composition des équipes
 
-- Les équipes inscrites aux 2 concours sont automatiquement qualifiées pour le prix de Suisse. Il n'y a pas de finance d'inscription supplémentaire.
-- Les équipes doivent être inscrites par la même institution et avec le même nom aux 2 événements. Si certains membres de l'équipe sont absents à l'un ou l'autre des événements la participation reste valide.
-- Les classements des 2 événements seront combinés avec la même importance pour établir le classement du prix de Suisse.
-- Le prix sera remis à la fin de la dernière compétition à Lugano.
+- Une équipe est composée de 1 à 6 jeunes.
+- Les membres de l'équipe doivent avoir entre 6 et 10 ans au 1er janvier.
+- L'équipe est accompagnée par au moins 1 adulte.
+- La participation est confirmée après paiement de la finance d'inscription.
+
+### Épreuve: Présentation
+
+- Les équipes préparent une maquette et un poster sur le thème de la saison FIRST LEGO League Explore "SUBMERGED".
+- Toutes les équipes reçoivent un prix.
 
 ## Photos et vidéos
 
@@ -51,4 +58,4 @@ Cette section sera mise à jour lorsque le concours de Lugano sera annoncé.
 
 N'hésitez pas à [nous contacter](/contact) si vous avez des questions.
 
-*Mis à jour le 2 octobre 2023.*
+*Mis à jour le 28 septembre 2024.*

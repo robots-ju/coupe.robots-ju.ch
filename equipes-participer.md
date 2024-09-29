@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Participer
+title: Participer - Ingénieur
 permalink: /equipes/participer
 redirect_from:
 - /participation
@@ -8,6 +8,9 @@ redirect_from:
 - /inscription
 banner_image: /media/banners/table.jpg
 ---
+
+<i class="fa fa-info-circle" aria-hidden="true"></i>
+Pour la catégorie Explorateur (6 à 10 ans), voir [cette page](/equipes/participer-explorateur).
 
 ## Qui peut participer ?
 
@@ -23,22 +26,34 @@ dans des clubs de robotique, en famille ou avec des copains…
 
 ## Comment s’inscrire ?
 
-L'édition 2025 sera annoncée prochainement.
+Une finance d’inscription de {{ site.concours.finance_inscription }} CHF par équipe est perçue.
+
+Chaque équipe peut transmettre un logo qui sera affiché sur le classement à côté du nom d'équipe.
+
+Les inscriptions sont gérées exclusivement via la plateforme en ligne accessible à l'adresse <https://events.robots-ju.ch/>.
+Si vous avez une question ou rencontrez un problème, contactez-nous via le [formulaire de contact](/contact) ou directement à <info@robots-ju.ch>.
+
+Un repas de midi avec option végétarienne sera disponible pour les participants.
+Le prix du repas sera confirmé bientôt.
+Le repas doit être réservé à l'avance.
+Un champ à cet effet est disponible dans le formulaire d'inscription.
+
+Les inscriptions sont ouvertes jusqu'à fin décembre 2024.
 
 ## Comment s’entraîner ?
 
 Les équipes doivent disposer de:
 
 - Un Robot LEGO Mindstorms ou Spike (toute version)
-- Un kit de missions FLL
-- La [description des missions](https://www.first-lego-league.org/en/2023-24-season/season-documents)
+- Un kit de missions FLL Challenge "SUBMERGED"
+- La [description des missions](https://www.first-lego-league.org/en/2024-25-season/challenge-resources/season-documents)
 
 Quelques kits de missions peuvent être mis à disposition.
 Les équipes qui en auraient besoin prennent contact avec l’organisateur.
 
 ## Emportez avec vous
 
-Le jour de la compétion vous aurez besoin:
+Le jour de la compétition, vous aurez besoin:
 
 - Pour le Live Challenge: un ordinateur portable ou tablette avec le [logiciel de programmation LEGO Mindstorms EV3](https://www.lego.com/fr-fr/themes/mindstorms/downloads) (legacy, EV3 Home ou EV3 Classroom) ou [le logiciel de programmation Spike Prime](https://education.lego.com/fr-fr/downloads/spike-app/software). Vérifiez que vous avez accès aux capteurs ultrasons et gyroscopiques (doivent être installés séparément sur certaines éditions du programme)
 - Pour le Robot Game: un robot LEGO Mindstorms ou Spike et vos outils pour les missions.

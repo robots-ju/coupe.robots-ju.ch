@@ -50,8 +50,10 @@ sitemap:
     - title: Club Robots-JU
       url: https://robots-ju.ch/
   competitors:
-    - title: Participer
+    - title: Catégorie Ingénieur
       url: /equipes/participer
+    - title: Catégorie Explorateur
+      url: /equipes/participer-explorateur
     - title: Règlement
       url: /equipes/reglement
     - title: Résultats 2024
@@ -87,4 +89,5 @@ social_links:
 
 concours:
     finance_inscription: 60
+    finance_inscription_explorateur: 30
     finance_repas: 10
