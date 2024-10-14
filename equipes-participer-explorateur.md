@@ -30,7 +30,7 @@ Une finance d’inscription de {{ site.concours.finance_inscription_explorateur 
 Chaque équipe peut transmettre un logo qui sera affiché sur le classement à côté du nom d'équipe.
 
 Les inscriptions sont gérées exclusivement via la plateforme en ligne accessible à l'adresse <https://events.robots-ju.ch/>.
-Si vous avez une question ou rencontrez un problème, contactez-nous via le [formulaire de contact](/contact) ou directement à <info@robots-ju.ch>.
+Si vous avez une question ou rencontrez un problème, contactez-nous via le [formulaire de contact](/contact) ou directement à <coupe@robots-ju.ch>.
 
 Un repas de midi avec option végétarienne sera disponible pour les participants.
 Le prix du repas sera confirmé bientôt.
