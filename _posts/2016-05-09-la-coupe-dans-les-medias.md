@@ -3,7 +3,7 @@ title: La coupe dans les médias
 date: 2016-05-09 20:00
 ---
 
-Une compétition de robotique sous cette forme est un première dans le Jura.
+Une compétition de robotique sous cette forme est une première dans le Jura.
 Les médias l'ont bien compris et en parlent.
 
 - L'édition en ligne du [Quotidien Jurassien](http://lqj.ch/region/de-jeunes-roboticiens-prets-a-hisser-haut-les-couleurs-jurassiennes)
