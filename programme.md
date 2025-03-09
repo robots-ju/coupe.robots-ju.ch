@@ -21,7 +21,7 @@ L'événement sera également diffusé en direct sur notre site web.
 
 - Les équipes découvrent un défi à remplir sur place
 - Elles construisent et programment un robot avec le kit LEGO fourni
-- Le temps pour remplir le défi est limité à 1 heure maximum
+- Le temps pour remplir le défi est limité à 90 minutes maximum
 - L’équipe doit remplir le défi sans aide extérieure ni coach
 
 ## Après-midi: Robot-Game 
