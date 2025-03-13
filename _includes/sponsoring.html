@@ -6,7 +6,7 @@
         </div>
         <ul class="sponsors">
             {% for sponsor in site.data.sponsors %}
-            <li><a href="{{ sponsor.url }}" title="{{ sponsor.title }}"><img alt="{{ sponsor.title }}" src="{{ sponsor.image }}"></a></li>
+            <li><a href="{{ sponsor.url }}" title="{{ sponsor.title }}"><span class="sponsor-logo" style="background-image: url('{{ sponsor.img }}');">{{ sponsor.title }}</span></a></li>
             {% endfor %}
         </ul>
     </div>
