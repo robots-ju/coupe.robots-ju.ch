@@ -10,14 +10,14 @@ banner_image: /media/banners/robotgame.jpg
 
 <h2 class="motto">La coupe de robotique jurassienne</h2>
 
-La 7e édition de la Coupe Robots-JU aura lieu le samedi 15 mars 2025 à Delémont.
+La 7e édition de la Coupe Robots-JU s'est déroulée le samedi 15 mars 2025 à Delémont.
 
 La Coupe est organisée par [Robots-JU](https://robots-ju.ch/), un club de robotique jurassien.
 Des équipes de jeunes de 6 à 16 ans construisent et programment pendant plusieurs mois des robots LEGO Mindstorms.
 Lors de la compétition, les robots remplissent en autonomie des missions très variées pour marquer des points.
 
 <div class="links">
-  <a class="btn btn-lg btn-primary" href="/programme"><i class="fa fa-tasks" aria-hidden="true"></i> Programme de la journée</a>
+  <a class="btn btn-lg btn-primary" href="/resultats/2025"><i class="fa fa-trophy" aria-hidden="true"></i> Résultats 2025</a>
 </div>
 
 <div class="links">

@@ -47,8 +47,8 @@ Une rediffusion en plus haute qualité suivra.
 | 3 | CFR’s Brik                | 14     |
 | 4 | Saint-Roch I              | 11     |
 | 5 | Phoenix                   | 7      |
-| 5 | Patatartiner jurassiennes | 7      |
-| 5 | Jurartiste                | 7      |
+|   | Patatartiner jurassiennes | 7      |
+|   | Jurartiste                | 7      |
 
 ## Esprit d'équipe
 

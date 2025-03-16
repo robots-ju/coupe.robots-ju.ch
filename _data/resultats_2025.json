@@ -1,0 +1,886 @@
+{
+    "teams": {
+        "equipain": "L’équi-pain jurassien",
+        "yellowsub": "Yellow_Submarine.JU",
+        "patataquatique": "www.patataquatique.ju",
+        "jurabysses": "Jurabysses",
+        "aquajura": "AquaJura",
+        "poseidon": "Poséidon.ju",
+        "brik": "Brik’ception",
+        "robohunter": "RoboHunter",
+        "letsgo": "LET’S GO",
+        "roch": "Saint Roch’n’Roll"
+    },
+    "matches": [
+        {
+            "number": 1,
+            "game": "robotgame",
+            "time": "12:45",
+            "teams": {
+                "equipain": {
+                    "table": "A",
+                    "score": 200,
+                    "scoreboard": "110110120000000011000000000005",
+                    "best": true
+                },
+                "yellowsub": {
+                    "table": "B",
+                    "score": 260,
+                    "scoreboard": "100110110011101000000100000016"
+                }
+            }
+        },
+        {
+            "number": 2,
+            "game": "robotgame",
+            "time": "12:55",
+            "teams": {
+                "patataquatique": {
+                    "table": "C",
+                    "score": 95,
+                    "scoreboard": "100000010000001100000100000004"
+                },
+                "jurabysses": {
+                    "table": "D",
+                    "score": 145,
+                    "scoreboard": "100110011000001000000100000004"
+                }
+            }
+        },
+        {
+            "number": 3,
+            "game": "robotgame",
+            "time": "13:00",
+            "teams": {
+                "aquajura": {
+                    "table": "A",
+                    "score": 155,
+                    "scoreboard": "100111110000001000000100000004"
+                },
+                "poseidon": {
+                    "table": "B",
+                    "score": 120,
+                    "scoreboard": "100000030000001100000100000005"
+                }
+            }
+        },
+        {
+            "number": 4,
+            "game": "robotgame",
+            "time": "13:05",
+            "teams": {
+                "letsgo": {
+                    "table": "C",
+                    "score": 110,
+                    "scoreboard": "100000000000001010000100000004"
+                },
+                "roch": {
+                    "table": "D",
+                    "score": 365,
+                    "scoreboard": "100110131111001000141110022004"
+                }
+            }
+        },
+        {
+            "number": 5,
+            "game": "robotgame",
+            "time": "13:10",
+            "teams": {
+                "brik": {
+                    "table": "A",
+                    "score": 185,
+                    "scoreboard": "100000000010001111000000200004"
+                },
+                "robohunter": {
+                    "table": "B",
+                    "score": 95,
+                    "scoreboard": "100000000010000000000000000013"
+                }
+            }
+        },
+        {
+            "number": 6,
+            "game": "robotgame",
+            "time": "13:15",
+            "teams": {
+                "yellowsub": {
+                    "table": "C",
+                    "score": 195,
+                    "scoreboard": "100110110001001000000100000014"
+                },
+                "patataquatique": {
+                    "table": "D",
+                    "score": 75,
+                    "scoreboard": "100000010000001100000100000002"
+                }
+            }
+        },
+        {
+            "number": 7,
+            "game": "robotgame",
+            "time": "13:20",
+            "teams": {
+                "jurabysses": {
+                    "table": "A",
+                    "score": 140,
+                    "scoreboard": "100110010000001000000100000005"
+                },
+                "aquajura": {
+                    "table": "B",
+                    "score": 110,
+                    "scoreboard": "100011000000001100000100000003"
+                }
+            }
+        },
+        {
+            "number": 8,
+            "game": "robotgame",
+            "time": "13:25",
+            "teams": {
+                "poseidon": {
+                    "table": "C",
+                    "score": 120,
+                    "scoreboard": "100000030000001100000100000005"
+                },
+                "brik": {
+                    "table": "D",
+                    "score": 365,
+                    "scoreboard": "100110131010031111200010200005",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 9,
+            "game": "robotgame",
+            "time": "13:30",
+            "teams": {
+                "robohunter": {
+                    "table": "A",
+                    "score": 245,
+                    "scoreboard": "100100000010041000000101120016"
+                },
+                "letsgo": {
+                    "table": "B",
+                    "score": 115,
+                    "scoreboard": "100010000000001000000100000005"
+                }
+            }
+        },
+        {
+            "number": 10,
+            "game": "robotgame",
+            "time": "13:35",
+            "teams": {
+                "roch": {
+                    "table": "C",
+                    "score": 360,
+                    "scoreboard": "100110031011001000151110120005"
+                },
+                "equipain": {
+                    "table": "D",
+                    "score": 110,
+                    "scoreboard": "100000030000001000000100000005"
+                }
+            }
+        },
+        {
+            "number": 11,
+            "game": "robotgame",
+            "time": "13:40",
+            "teams": {
+                "poseidon": {
+                    "table": "A",
+                    "score": 140,
+                    "scoreboard": "100000030000001100000100000015"
+                },
+                "jurabysses": {
+                    "table": "B",
+                    "score": 190,
+                    "scoreboard": "100110011001001000000100000006",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 12,
+            "game": "robotgame",
+            "time": "13:45",
+            "teams": {
+                "equipain": {
+                    "table": "C",
+                    "score": 125,
+                    "scoreboard": "100100120000000000000100000006"
+                },
+                "patataquatique": {
+                    "table": "D",
+                    "score": 120,
+                    "scoreboard": "100000020010001000000100000004"
+                }
+            }
+        },
+        {
+            "number": 13,
+            "game": "robotgame",
+            "time": "13:50",
+            "teams": {
+                "letsgo": {
+                    "table": "A",
+                    "score": 165,
+                    "scoreboard": "100110000000001010000100000005"
+                },
+                "brik": {
+                    "table": "B",
+                    "score": 285,
+                    "scoreboard": "100111010010031110100000100005"
+                }
+            }
+        },
+        {
+            "number": 14,
+            "game": "robotgame",
+            "time": "13:55",
+            "teams": {
+                "yellowsub": {
+                    "table": "C",
+                    "score": 265,
+                    "scoreboard": "100110100011101100000100000016"
+                },
+                "robohunter": {
+                    "table": "D",
+                    "score": 235,
+                    "scoreboard": "100100000010041000210101000006"
+                }
+            }
+        },
+        {
+            "number": 15,
+            "game": "robotgame",
+            "time": "14:00",
+            "teams": {
+                "roch": {
+                    "table": "A",
+                    "score": 405,
+                    "scoreboard": "100110020011111000251111221106",
+                    "best": true
+                },
+                "aquajura": {
+                    "table": "B",
+                    "score": 165,
+                    "scoreboard": "100111100000001000000100000006"
+                }
+            }
+        },
+        {
+            "number": 16,
+            "game": "robotgame",
+            "time": "14:05",
+            "teams": {
+                "equipain": {
+                    "table": "C",
+                    "score": 185,
+                    "scoreboard": "100100120010001100000100000005"
+                },
+                "jurabysses": {
+                    "table": "D",
+                    "score": 180,
+                    "scoreboard": "100110011100001000000100000006"
+                }
+            }
+        },
+        {
+            "number": 17,
+            "game": "robotgame",
+            "time": "14:10",
+            "teams": {
+                "patataquatique": {
+                    "table": "A",
+                    "score": 150,
+                    "scoreboard": "100100020010001001000100000004",
+                    "best": true
+                },
+                "poseidon": {
+                    "table": "B",
+                    "score": 135,
+                    "scoreboard": "100000130000001100000000000005"
+                }
+            }
+        },
+        {
+            "number": 18,
+            "game": "robotgame",
+            "time": "14:15",
+            "teams": {
+                "robohunter": {
+                    "table": "C",
+                    "score": 220,
+                    "scoreboard": "100100000010001000001111030016"
+                },
+                "aquajura": {
+                    "table": "D",
+                    "score": 115,
+                    "scoreboard": "100100010000001100000100000004"
+                }
+            }
+        },
+        {
+            "number": 19,
+            "game": "robotgame",
+            "time": "14:20",
+            "teams": {
+                "roch": {
+                    "table": "A",
+                    "score": 350,
+                    "scoreboard": "100111031011111000200100212105"
+                },
+                "brik": {
+                    "table": "B",
+                    "score": 155,
+                    "scoreboard": "100011110000001000000100100004"
+                }
+            }
+        },
+        {
+            "number": 20,
+            "game": "robotgame",
+            "time": "14:25",
+            "teams": {
+                "yellowsub": {
+                    "table": "C",
+                    "score": 250,
+                    "scoreboard": "100110010001141000000100000016"
+                },
+                "letsgo": {
+                    "table": "D",
+                    "score": 155,
+                    "scoreboard": "100011000000001010000100000005"
+                }
+            }
+        },
+        {
+            "number": 21,
+            "game": "robotgame",
+            "time": "14:30",
+            "teams": {
+                "equipain": {
+                    "table": "A",
+                    "score": 85,
+                    "scoreboard": "100000020000001000000000000004"
+                },
+                "aquajura": {
+                    "table": "B",
+                    "score": 140,
+                    "scoreboard": "100111000000000010000100000004"
+                }
+            }
+        },
+        {
+            "number": 22,
+            "game": "robotgame",
+            "time": "14:35",
+            "teams": {
+                "patataquatique": {
+                    "table": "C",
+                    "score": 165,
+                    "scoreboard": "100010020010001100000100000005",
+                    "best": true
+                },
+                "brik": {
+                    "table": "D",
+                    "score": 295,
+                    "scoreboard": "110111021010001110100000200004"
+                }
+            }
+        },
+        {
+            "number": 23,
+            "game": "robotgame",
+            "time": "14:40",
+            "teams": {
+                "letsgo": {
+                    "table": "A",
+                    "score": 215,
+                    "scoreboard": "100111000010001110000100000005",
+                    "best": true
+                },
+                "poseidon": {
+                    "table": "B",
+                    "score": 140,
+                    "scoreboard": "100000130000001100000100000005"
+                }
+            }
+        },
+        {
+            "number": 24,
+            "game": "robotgame",
+            "time": "14:45",
+            "teams": {
+                "yellowsub": {
+                    "table": "C",
+                    "score": 315,
+                    "scoreboard": "100110110010141111000000000016"
+                },
+                "jurabysses": {
+                    "table": "D",
+                    "score": 135,
+                    "scoreboard": "100110010000001100000100000004"
+                }
+            }
+        },
+        {
+            "number": 25,
+            "game": "robotgame",
+            "time": "14:50",
+            "teams": {
+                "robohunter": {
+                    "table": "A",
+                    "score": 225,
+                    "scoreboard": "100100000010001000001101120016"
+                },
+                "roch": {
+                    "table": "B",
+                    "score": 340,
+                    "scoreboard": "100111111111130000100101020005"
+                }
+            }
+        },
+        {
+            "number": 26,
+            "game": "robotgame",
+            "time": "14:55",
+            "teams": {
+                "equipain": {
+                    "table": "C",
+                    "score": 210,
+                    "scoreboard": "100110020010001011000000000006",
+                    "best": true
+                },
+                "poseidon": {
+                    "table": "D",
+                    "score": 160,
+                    "scoreboard": "100000130000001100000100000016",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 27,
+            "game": "robotgame",
+            "time": "15:25",
+            "teams": {
+                "jurabysses": {
+                    "table": "A",
+                    "score": 185,
+                    "scoreboard": "100110020001001100000100000005"
+                },
+                "brik": {
+                    "table": "B",
+                    "score": 315,
+                    "scoreboard": "100111121010001111200000200004",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 28,
+            "game": "robotgame",
+            "time": "15:30",
+            "teams": {
+                "robohunter": {
+                    "table": "C",
+                    "score": 225,
+                    "scoreboard": "100100001010001000001101020015"
+                },
+                "patataquatique": {
+                    "table": "D",
+                    "score": 130,
+                    "scoreboard": "100100020010001000000100000003"
+                }
+            }
+        },
+        {
+            "number": 29,
+            "game": "robotgame",
+            "time": "15:35",
+            "teams": {
+                "yellowsub": {
+                    "table": "A",
+                    "score": 320,
+                    "scoreboard": "100100110011141110000100000016",
+                    "best": true
+                },
+                "roch": {
+                    "table": "B",
+                    "score": 310,
+                    "scoreboard": "100011010010001100240111231005"
+                }
+            }
+        },
+        {
+            "number": 30,
+            "game": "robotgame",
+            "time": "15:40",
+            "teams": {
+                "aquajura": {
+                    "table": "C",
+                    "score": 130,
+                    "scoreboard": "100100010000001100000100000005"
+                },
+                "letsgo": {
+                    "table": "D",
+                    "score": 135,
+                    "scoreboard": "100110000000001000000100000005"
+                }
+            }
+        },
+        {
+            "number": 31,
+            "game": "robotgame",
+            "time": "15:45",
+            "teams": {
+                "brik": {
+                    "table": "A",
+                    "score": 250,
+                    "scoreboard": "100111021000031010100110000004"
+                },
+                "equipain": {
+                    "table": "B",
+                    "score": 180,
+                    "scoreboard": "110100010010001100000100000005"
+                }
+            }
+        },
+        {
+            "number": 32,
+            "game": "robotgame",
+            "time": "15:50",
+            "teams": {
+                "patataquatique": {
+                    "table": "C",
+                    "score": 100,
+                    "scoreboard": "100100020000001000000100000003"
+                },
+                "roch": {
+                    "table": "D",
+                    "score": 70,
+                    "scoreboard": "100000000000000000000000000006"
+                }
+            }
+        },
+        {
+            "number": 33,
+            "game": "robotgame",
+            "time": "15:55",
+            "teams": {
+                "letsgo": {
+                    "table": "A",
+                    "score": 205,
+                    "scoreboard": "100111000010001010000100000005",
+                    "best": true
+                },
+                "jurabysses": {
+                    "table": "B",
+                    "score": 190,
+                    "scoreboard": "100110011001001000000100000005"
+                }
+            }
+        },
+        {
+            "number": 34,
+            "game": "robotgame",
+            "time": "16:00",
+            "teams": {
+                "poseidon": {
+                    "table": "C",
+                    "score": 125,
+                    "scoreboard": "100000020000001000000100000015"
+                },
+                "robohunter": {
+                    "table": "D",
+                    "score": 275,
+                    "scoreboard": "100100010010021111001101010015",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 35,
+            "game": "robotgame",
+            "time": "16:05",
+            "teams": {
+                "yellowsub": {
+                    "table": "A",
+                    "score": 350,
+                    "scoreboard": "100110110011141111000100000016",
+                    "best": true
+                },
+                "aquajura": {
+                    "table": "B",
+                    "score": 185,
+                    "scoreboard": "100111120000001100000100000006",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 36,
+            "game": "robotgame",
+            "time": "16:10",
+            "teams": {
+                "robohunter": {
+                    "table": "C",
+                    "score": 220,
+                    "scoreboard": "100100000000021000020101210016"
+                },
+                "equipain": {
+                    "table": "D",
+                    "score": 170,
+                    "scoreboard": "100010020000001111000000000006"
+                }
+            }
+        },
+        {
+            "number": 37,
+            "game": "robotgame",
+            "time": "16:15",
+            "teams": {
+                "poseidon": {
+                    "table": "A",
+                    "score": 160,
+                    "scoreboard": "100000130000001100000100000015",
+                    "best": true
+                },
+                "yellowsub": {
+                    "table": "B",
+                    "score": 270,
+                    "scoreboard": "100110110011111000000100000016"
+                }
+            }
+        },
+        {
+            "number": 38,
+            "game": "robotgame",
+            "time": "16:20",
+            "teams": {
+                "aquajura": {
+                    "table": "C",
+                    "score": 170,
+                    "scoreboard": "100110110000001100000100000005",
+                    "best": true
+                },
+                "brik": {
+                    "table": "D",
+                    "score": 210,
+                    "scoreboard": "100000020010031011000100100004"
+                }
+            }
+        },
+        {
+            "number": 39,
+            "game": "robotgame",
+            "time": "16:25",
+            "teams": {
+                "patataquatique": {
+                    "table": "A",
+                    "score": 105,
+                    "scoreboard": "100000010000001101000100000004"
+                },
+                "letsgo": {
+                    "table": "B",
+                    "score": 175,
+                    "scoreboard": "100111100000001100000100000005"
+                }
+            }
+        },
+        {
+            "number": 40,
+            "game": "robotgame",
+            "time": "16:30",
+            "teams": {
+                "jurabysses": {
+                    "table": "C",
+                    "score": 140,
+                    "scoreboard": "100110010000001000000100000005"
+                },
+                "roch": {
+                    "table": "D",
+                    "score": 390,
+                    "scoreboard": "100100121111130000250111030006",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 41,
+            "game": "robotgame",
+            "time": "16:35",
+            "teams": {
+                "equipain": {
+                    "table": "A",
+                    "score": 105,
+                    "scoreboard": "100100010000001000000100000004"
+                },
+                "letsgo": {
+                    "table": "B",
+                    "score": 125,
+                    "scoreboard": "100010100000000010000000000004"
+                }
+            }
+        },
+        {
+            "number": 42,
+            "game": "robotgame",
+            "time": "16:40",
+            "teams": {
+                "brik": {
+                    "table": "C",
+                    "score": 230,
+                    "scoreboard": "100111111000101000000100100005"
+                },
+                "yellowsub": {
+                    "table": "D",
+                    "score": 225,
+                    "scoreboard": "100110110011001000000100000014"
+                }
+            }
+        },
+        {
+            "number": 43,
+            "game": "robotgame",
+            "time": "16:45",
+            "teams": {
+                "aquajura": {
+                    "table": "A",
+                    "score": 150,
+                    "scoreboard": "100110010000001100000100000005"
+                },
+                "patataquatique": {
+                    "table": "B",
+                    "score": 100,
+                    "scoreboard": "100000020000001100000100000004"
+                }
+            }
+        },
+        {
+            "number": 44,
+            "game": "robotgame",
+            "time": "16:50",
+            "teams": {
+                "jurabysses": {
+                    "table": "C",
+                    "score": 210,
+                    "scoreboard": "100111011001001100000100000006",
+                    "best": true
+                },
+                "robohunter": {
+                    "table": "D",
+                    "score": 310,
+                    "scoreboard": "100100001010021100141101010016",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 45,
+            "game": "robotgame",
+            "time": "16:55",
+            "teams": {
+                "poseidon": {
+                    "table": "A",
+                    "score": 135,
+                    "scoreboard": "100000120000001100000100000005"
+                },
+                "roch": {
+                    "table": "B",
+                    "score": 380,
+                    "scoreboard": "100110121111001000240111231003"
+                }
+            }
+        },
+        {
+            "number": 46,
+            "game": "semifinals",
+            "time": "17:05",
+            "teams": {
+                "roch": {
+                    "table": "C",
+                    "score": 325,
+                    "scoreboard": "100000020011100000251110222005"
+                },
+                "robohunter": {
+                    "table": "D",
+                    "score": 260,
+                    "scoreboard": "100100021010021000030101010016"
+                }
+            }
+        },
+        {
+            "number": 47,
+            "game": "semifinals",
+            "time": "17:10",
+            "teams": {
+                "brik": {
+                    "table": "A",
+                    "score": 210,
+                    "scoreboard": "100000010010031011200000100002"
+                },
+                "yellowsub": {
+                    "table": "B",
+                    "score": 260,
+                    "scoreboard": "100110110010041100000100000016"
+                }
+            }
+        },
+        {
+            "number": "47b",
+            "game": "semifinals-tiebreaker",
+            "time": "17:10",
+            "teams": {
+                "yellowsub": {
+                    "table": "A",
+                    "score": 235,
+                    "scoreboard": "100110010001101110000100000014"
+                },
+                "robohunter": {
+                    "table": "B",
+                    "score": 200,
+                    "scoreboard": "100100000010000011201100000004"
+                }
+            }
+        },
+        {
+            "number": 48,
+            "game": "finals",
+            "time": "17:15",
+            "teams": {
+                "roch": {
+                    "table": "A",
+                    "score": 420,
+                    "scoreboard": "100110021011111100151110222106"
+                },
+                "yellowsub": {
+                    "table": "B",
+                    "score": 290,
+                    "scoreboard": "100110110011141100000100000005"
+                }
+            }
+        },
+        {
+            "number": 49,
+            "game": "finals",
+            "time": "17:20",
+            "teams": {
+                "yellowsub": {
+                    "table": "A",
+                    "score": 340,
+                    "scoreboard": "100110110011141110000100000016"
+                },
+                "roch": {
+                    "table": "B",
+                    "score": 440,
+                    "scoreboard": "100110121011101100251111221005"
+                }
+            }
+        }
+    ]
+}

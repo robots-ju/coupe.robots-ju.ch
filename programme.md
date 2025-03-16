@@ -5,7 +5,7 @@ permalink: /programme
 banner_image: /media/banners/public.jpg
 ---
 
-La Coupe 2025 se déroulera le samedi 15 mars 2025 dans l'auditoire de [StrateJ](http://www.stratej.ch/fr/Le-lieu.html) à Delémont.
+La Coupe 2025 s'est déroulée le samedi 15 mars 2025 dans l'auditoire de [StrateJ](http://www.stratej.ch/fr/Le-lieu.html) à Delémont.
 
 **Pour les équipes**: Les équipes se sont [inscrites](/equipes/participer) et entraînées en vue de la compétition.
 
@@ -15,7 +15,7 @@ Les matches de robots sont commentés et diffusés sur grand écran !
 
 L'entrée est libre.
 
-L'événement sera également diffusé en direct sur notre site web.
+[Voir la rediffusion de l'événement sur YouTube](https://www.youtube.com/watch?v=P2NBR2CKaHA)
 
 ## Matin: Live Challenge
 
