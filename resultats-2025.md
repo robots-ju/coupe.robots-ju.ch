@@ -13,7 +13,17 @@ Bravo à tous pour vos excellents résultats !
 <i class="fa fa-youtube-play" aria-hidden="true"></i>
 La rediffusion du [live stream](https://www.youtube.com/watch?v=P2NBR2CKaHA) est disponible sur YouTube.
 
-## Classement général
+## Catégorie Explorateur
+
+| Prix                     | Équipe                            |
+|--------------------------|-----------------------------------|
+| Meilleur Poster          | Les robots marins étoiles du Jura |
+| Meilleure Maquette       | Les régalecs éclairs du Jura XXL  |
+| Meilleur Esprit d'équipe | Les monstres marins du Jura       |
+
+## Catégorie Ingénieur
+
+### Classement général
 
 | #  | Équipe                  | Points |
 |----|-------------------------|--------|
@@ -28,7 +38,7 @@ La rediffusion du [live stream](https://www.youtube.com/watch?v=P2NBR2CKaHA) est
 | 9  | L’équi-pain jurassien   | 26     |
 | 10 | AquaJura                | 24     |
 
-## Classement Robot-Game
+### Classement Robot-Game
 
 | #  | Équipe                | Qualifications | Demi-finales | Finales |
 |----|-----------------------|----------------|--------------|---------|
@@ -45,7 +55,7 @@ La rediffusion du [live stream](https://www.youtube.com/watch?v=P2NBR2CKaHA) est
 
 \* match de barrage
 
-## Classement Live Challenge
+### Classement Live Challenge
 
 | #  | Équipe                  | Points |
 |----|-------------------------|--------|
@@ -60,11 +70,11 @@ La rediffusion du [live stream](https://www.youtube.com/watch?v=P2NBR2CKaHA) est
 | 9  | AquaJura                | 1      |
 | 10 | L’équi-pain jurassien   | 0      |
 
-## Esprit d'équipe
+### Esprit d'équipe
 
 Le jury a attribué le prix d'esprit d'équipe à **LET’s GO**.
 
-## Détail des matches du Robot-Game
+### Détail des matches du Robot-Game
 
 Le tableau présente les 50 matches (qualifications et finales) disputés lors de la Coupe.
 Les 2 meilleurs matchs de qualification de chaque équipe (retenus pour le classement) sont mis en évidence.
