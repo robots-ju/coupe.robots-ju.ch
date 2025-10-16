@@ -7,4 +7,4 @@ Un repas de midi avec option végétarienne sera disponible pour {{ site.concour
 Le repas doit être réservé à l'avance.
 Un champ à cet effet est disponible dans le formulaire d'inscription.
 
-Les inscriptions sont ouvertes jusqu'à fin décembre 2024.
+Les inscriptions sont ouvertes jusqu'à fin décembre 2025.

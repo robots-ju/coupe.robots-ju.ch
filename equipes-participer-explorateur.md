@@ -33,7 +33,7 @@ Une finance d’inscription de {{ site.concours.finance_inscription_explorateur 
 
 Les équipes doivent disposer de:
 
-- Un [kit FLL Explore "SUBMERGED"](https://www.first-lego-league.org/en/2024-25-season/explore-resources)
+- Un [kit FLL Explore "UNEARTHED"](https://www.first-lego-league.org/en/2025-26-season/explore-resources)
 - Un kit LEGO SPIKE Essentiel
 
 Quelques kits de missions peuvent être mis à disposition.

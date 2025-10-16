@@ -6,7 +6,7 @@ redirect_from: /reglement
 banner_image: /media/banners/notes.jpg
 ---
 
-# Règlement de l'édition 2025
+# Règlement de l'édition 2026
 
 ## Catégorie Ingénieur
 
@@ -20,22 +20,24 @@ banner_image: /media/banners/notes.jpg
 ### Épreuve: Live Challenge
 
 - Le détail de la mission à remplir sera dévoilé sur place juste avant le début de l'épreuve.
-- L’équipe devra construire et programmer un robot LEGO Mindstorms Spike ou EV3 (choisi à l'avance) dans un temps limité et sans aide extérieure.
-- Vous devrez programmer le robot avec votre **propre PC ou tablette**. Vérifiez qu'il est équipé du [logiciel adapté](https://www.lego.com/fr-fr/themes/mindstorms/downloads) pour le modèle de robot choisi.
-- Le nombre de prises électriques est limité durant cette épreuve. Avertissez-nous si votre PC ne peut pas fonctionner sur batterie durant ~1h30.
+- Les règles et la structure de points sont distribuées à chaque équipe au format papier. Le document est traduit pour les équipes qui ne parlent pas français.
+- L’équipe devra construire et programmer un robot LEGO Mindstorms Spike ou EV3 (choisi à l'avance) dans un temps limité et sans aide extérieure (coach, autre équipe, internet, etc).
+- Vous devrez programmer le robot avec votre **propre PC ou tablette**. Vérifiez qu'il est équipé du logiciel adapté pour le modèle de robot choisi.
+- Les principes et valeurs de la FIRST LEGO League s'appliquent. En général, ce qui n'est pas interdit est autorisé. Un comportement *fair play* est attendu des équipes. En cas de doute ou conflit, le chef arbitre a le dernier mot.
 
 ### Épreuve: Robot-Game
 
-- Les équipes préparent les missions de la saison FIRST LEGO League Challenge "SUBMERGED".
-- Le [règlement du Robot-Game FLL](https://www.first-lego-league.org/en/2024-25-season/challenge-resources/season-documents) publié par Hands-on Technology en anglais fera foi.
-- Le décompte des points se fait au moyen du "Robots-JU FLL Scoreboard 2024", accessible à l'adresse <https://fll-scoreboard.robots-ju.ch/submerged>
+- Les équipes préparent les missions de la saison FIRST LEGO League Challenge "UNEARTHED".
+- Le [règlement du Robot-Game FLL](https://www.first-lego-league.org/en/2025-26-season/challenge-resources/season-documents) publié par Hands-on Technology en anglais fait foi.
+- Le décompte des points se fait au moyen du "Robots-JU FLL Scoreboard 2025", qui sera publiée dans le courant de l'année.
 - Le score est basé sur l'addition des deux meilleurs matches.
-- Les 4 meilleures équipes disputent la demi-finale. Les deux meilleures équipes disputent la finale.
+- Les quatre meilleures équipes disputent la demi-finale. Les deux meilleures équipes disputent la finale.
 
 ### Classement
 
-- Un trophée est remis au vainqueur du Robot-Game et à la meilleure équipe de la Coupe.
-- Le Live Challenge et le Robot-Game ont la même importance au classement général.
+- Un trophée est remis au vainqueur de la finale Robot-Game et à la meilleure équipe au classement général.
+- Le classement général est une combinaison égale du score au Live Challenge et du score de qualification au Robot Game.
+- En cas d'égalités, le collège de juges départage les équipes.
 
 ## Catégorie Explorateur
 
@@ -48,7 +50,7 @@ banner_image: /media/banners/notes.jpg
 
 ### Épreuve: Présentation
 
-- Les équipes préparent une maquette et un poster sur le thème de la saison FIRST LEGO League Explore "SUBMERGED".
+- Les équipes préparent une maquette et un poster sur le thème de la saison FIRST LEGO League Explore "UNEARTHED".
 - Toutes les équipes reçoivent un prix.
 
 ## Photos et vidéos
@@ -58,4 +60,4 @@ banner_image: /media/banners/notes.jpg
 
 N'hésitez pas à [nous contacter](/contact) si vous avez des questions.
 
-*Mis à jour le 28 septembre 2024.*
+*Mis à jour le 16 octobre 2025.*

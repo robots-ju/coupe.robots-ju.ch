@@ -35,8 +35,8 @@ Une finance d’inscription de {{ site.concours.finance_inscription }} CHF par �
 Les équipes doivent disposer de:
 
 - Un Robot LEGO Mindstorms ou Spike (toute version)
-- Un kit de missions FLL Challenge "SUBMERGED"
-- La [description des missions](https://www.first-lego-league.org/en/2024-25-season/challenge-resources/season-documents)
+- Un kit de missions FLL Challenge "UNEARTHED"
+- La [description des missions](https://www.first-lego-league.org/en/2025-26-season/challenge-resources/season-documents)
 
 Quelques kits de missions peuvent être mis à disposition.
 Les équipes qui en auraient besoin prennent contact avec l’organisateur.
@@ -45,13 +45,10 @@ Les équipes qui en auraient besoin prennent contact avec l’organisateur.
 
 Le jour de la compétition, vous aurez besoin:
 
-- Pour le Live Challenge: un ordinateur portable ou tablette avec le [logiciel de programmation LEGO Mindstorms EV3](https://www.lego.com/fr-fr/themes/mindstorms/downloads) (legacy, EV3 Home ou EV3 Classroom) ou [le logiciel de programmation Spike Prime](https://education.lego.com/fr-fr/downloads/spike-app/software). Vérifiez que vous avez accès aux capteurs ultrasons et gyroscopiques (doivent être installés séparément sur certaines éditions du programme)
+- Pour le Live Challenge: un ordinateur portable ou tablette avec le logiciel de programmation LEGO Mindstorms EV3 (legacy, EV3 Home ou [EV3 Classroom](https://education.lego.com/en-us/downloads/mindstorms-ev3/software/)) ou [le logiciel de programmation Spike Prime](https://education.lego.com/fr-fr/downloads/spike-app/software/). Vérifiez que vous avez accès aux capteurs ultrasons et gyroscopiques (doivent être installés séparément sur certaines éditions du programme). Les logiciels legacy pour EV3 ne sont plus proposés au téléchargement par LEGO, contactez-nous si vous avez besoin du logiciel.
 - Pour le Robot Game: un robot LEGO Mindstorms ou Spike et vos outils pour les missions.
 
-Un multi-fiche électrique et un accès wifi seront à disposition dans la salle des équipes.
-
-Dans la salle du Live Challenge, l'accès à l'électricité ou wifi ne sont pas garantis.
-Merci de nous avertir si votre PC/tablette ne peut pas fonctionner sur batterie durant ~1h30, nous vous donnerons un emplacement près d'une prise.
+Un multi-fiche électrique et un accès wifi seront à disposition (wifi interdit durant le Live Challenge sauf pour télécharger une mise à jour manquante).
 
 ## Missions et règlements
 
