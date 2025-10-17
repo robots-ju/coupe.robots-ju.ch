@@ -38,6 +38,11 @@ En parallèle du Robot Game, les équipes de la catégorie Explorateur vous pré
 
 La remise des prix clôture la journée.
 
+## Reste de la semaine
+
+Le mercredi 4 et le dimanche 8, d'autres animations seront proposées sur le stand Robots-JU.
+Les détails suivront.
+
 ## Lieu
 
 Forum de l'Arc<br>
