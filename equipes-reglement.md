@@ -29,7 +29,7 @@ banner_image: /media/banners/notes.jpg
 
 - Les équipes préparent les missions de la saison FIRST LEGO League Challenge "UNEARTHED".
 - Le [règlement du Robot-Game FLL](https://www.first-lego-league.org/en/2025-26-season/challenge-resources/season-documents) publié par Hands-on Technology en anglais fait foi.
-- Le décompte des points se fait au moyen du "Robots-JU FLL Scoreboard 2025", qui sera publiée dans le courant de l'année.
+- Le décompte des points se fait au moyen du [Robots-JU FLL Scoreboard 2025](https://fll-scoreboard.robots-ju.ch/unearthed), dont le code source est disponible [sur GitHub](https://github.com/robots-ju/fll-scoreboard).
 - Le score est basé sur l'addition des deux meilleurs matches.
 - Les quatre meilleures équipes disputent la demi-finale. Les deux meilleures équipes disputent la finale.
 
@@ -60,4 +60,4 @@ banner_image: /media/banners/notes.jpg
 
 N'hésitez pas à [nous contacter](/contact) si vous avez des questions.
 
-*Mis à jour le 16 octobre 2025.*
+*Mis à jour le 8 novembre 2025.*
