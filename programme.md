@@ -40,8 +40,8 @@ La remise des prix clôture la journée.
 
 ## Reste de la semaine
 
-Le mercredi 4 et le dimanche 8, d'autres animations seront proposées sur le stand Robots-JU.
-Les détails suivront.
+Le mercredi 4 et le dimanche 8, nous proposons un atelier d'introduction à la robotique pour tous les âges.
+Pas d'inscription nécessaire.
 
 ## Lieu
 
