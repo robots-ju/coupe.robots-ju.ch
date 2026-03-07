@@ -30,8 +30,8 @@ main_menu:
     url: /programme
   - title: Participer
     url: /equipes/participer
-  - title: Résultats 2025
-    url: /resultats/2025
+  - title: Résultats 2026
+    url: /resultats/2026
   - title: Contact
     url: /contact
 
@@ -56,6 +56,8 @@ sitemap:
       url: /equipes/participer-explorateur
     - title: Règlement
       url: /equipes/reglement
+    - title: Résultats 2026
+      url: /resultats/2026
     - title: Résultats 2025
       url: /resultats/2025
     - title: Résultats 2024

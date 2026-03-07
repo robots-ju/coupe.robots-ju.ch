@@ -1,0 +1,444 @@
+{
+    "teams": {
+        "raptors": "Raptors.JU",
+        "earts": "E-Arts",
+        "patates": "Les patatarchéologues",
+        "robohunter": "RoboHunter",
+        "jurartefact": "Jurartéfact",
+        "capricorns": "Capricorns",
+        "jurarcheo": "Jura’rchéo",
+        "capricornsjr": "Capricorns Juniors",
+        "pioche": "Les dinosaures robots têtes de pioche du Jura",
+        "lbj": "Projet LBJ"
+    },
+    "matches": [
+        {
+            "number": 1,
+            "game": "robotgame",
+            "time": "13:30",
+            "teams": {
+                "raptors": {
+                    "table": "A",
+                    "score": 225,
+                    "scoreboard": "100000000312111000110014"
+                },
+                "earts": {
+                    "table": "B",
+                    "score": 425,
+                    "scoreboard": "121310101313110000011335",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 2,
+            "game": "robotgame",
+            "time": "13:40",
+            "teams": {
+                "patates": {
+                    "table": "C",
+                    "score": 105,
+                    "scoreboard": "110100010000000000100004",
+                    "best": true
+                },
+                "robohunter": {
+                    "table": "D",
+                    "score": 210,
+                    "scoreboard": "100000011000011110110015"
+                }
+            }
+        },
+        {
+            "number": 3,
+            "game": "robotgame",
+            "time": "13:45",
+            "teams": {
+                "jurartefact": {
+                    "table": "A",
+                    "score": 95,
+                    "scoreboard": "110200010000000000010003"
+                },
+                "capricorns": {
+                    "table": "B",
+                    "score": 395,
+                    "scoreboard": "121310011113111100001326"
+                }
+            }
+        },
+        {
+            "number": 4,
+            "game": "robotgame",
+            "time": "13:50",
+            "teams": {
+                "pioche": {
+                    "table": "C",
+                    "score": 65,
+                    "scoreboard": "120000010000000000000002"
+                },
+                "lbj": {
+                    "table": "D",
+                    "score": 65,
+                    "scoreboard": "100000010000000000000004"
+                }
+            }
+        },
+        {
+            "number": 5,
+            "game": "robotgame",
+            "time": "13:55",
+            "teams": {
+                "jurarcheo": {
+                    "table": "A",
+                    "score": 140,
+                    "scoreboard": "120100010000000000110005",
+                    "best": true
+                },
+                "capricornsjr": {
+                    "table": "B",
+                    "score": 155,
+                    "scoreboard": "110000011302000000000004"
+                }
+            }
+        },
+        {
+            "number": 6,
+            "game": "robotgame",
+            "time": "14:00",
+            "teams": {
+                "earts": {
+                    "table": "C",
+                    "score": 420,
+                    "scoreboard": "121310111213010011100436",
+                    "best": true
+                },
+                "patates": {
+                    "table": "D",
+                    "score": 85,
+                    "scoreboard": "120000010000000000000004",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 7,
+            "game": "robotgame",
+            "time": "14:05",
+            "teams": {
+                "robohunter": {
+                    "table": "A",
+                    "score": 270,
+                    "scoreboard": "120000011002101111110015",
+                    "best": true
+                },
+                "jurartefact": {
+                    "table": "B",
+                    "score": 200,
+                    "scoreboard": "120200011300000000100005",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 8,
+            "game": "robotgame",
+            "time": "14:20",
+            "teams": {
+                "capricorns": {
+                    "table": "C",
+                    "score": 270,
+                    "scoreboard": "121310010000111100110314"
+                },
+                "jurarcheo": {
+                    "table": "D",
+                    "score": 175,
+                    "scoreboard": "120100011300000000000106",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 9,
+            "game": "robotgame",
+            "time": "14:25",
+            "teams": {
+                "capricornsjr": {
+                    "table": "A",
+                    "score": 75,
+                    "scoreboard": "110000010000000000000004"
+                },
+                "pioche": {
+                    "table": "B",
+                    "score": 140,
+                    "scoreboard": "120100010000000000110006",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 10,
+            "game": "robotgame",
+            "time": "14:30",
+            "teams": {
+                "lbj": {
+                    "table": "C",
+                    "score": 105,
+                    "scoreboard": "120000010000000000100004",
+                    "best": true
+                },
+                "raptors": {
+                    "table": "D",
+                    "score": 255,
+                    "scoreboard": "110010001313000000110014"
+                }
+            }
+        },
+        {
+            "number": 11,
+            "game": "robotgame",
+            "time": "14:35",
+            "teams": {
+                "capricorns": {
+                    "table": "A",
+                    "score": 440,
+                    "scoreboard": "121311011313011000111435",
+                    "best": true
+                },
+                "robohunter": {
+                    "table": "B",
+                    "score": 225,
+                    "scoreboard": "111211011000010000100106"
+                }
+            }
+        },
+        {
+            "number": 12,
+            "game": "robotgame",
+            "time": "14:40",
+            "teams": {
+                "raptors": {
+                    "table": "C",
+                    "score": 280,
+                    "scoreboard": "100110011303000000111015",
+                    "best": true
+                },
+                "patates": {
+                    "table": "D",
+                    "score": 65,
+                    "scoreboard": "120000010000000000000002"
+                }
+            }
+        },
+        {
+            "number": 13,
+            "game": "robotgame",
+            "time": "14:45",
+            "teams": {
+                "pioche": {
+                    "table": "A",
+                    "score": 135,
+                    "scoreboard": "120100010000010000110004",
+                    "best": true
+                },
+                "jurarcheo": {
+                    "table": "B",
+                    "score": 75,
+                    "scoreboard": "110000010000000000100002"
+                }
+            }
+        },
+        {
+            "number": 14,
+            "game": "robotgame",
+            "time": "14:50",
+            "teams": {
+                "earts": {
+                    "table": "C",
+                    "score": 420,
+                    "scoreboard": "121110111213010011101426"
+                },
+                "capricornsjr": {
+                    "table": "D",
+                    "score": 195,
+                    "scoreboard": "120000011303001000000004",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 15,
+            "game": "robotgame",
+            "time": "15:05",
+            "teams": {
+                "lbj": {
+                    "table": "A",
+                    "score": 105,
+                    "scoreboard": "120000010000000000110003",
+                    "best": true
+                },
+                "jurartefact": {
+                    "table": "B",
+                    "score": 150,
+                    "scoreboard": "110100010300000000100006",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 16,
+            "game": "robotgame",
+            "time": "15:10",
+            "teams": {
+                "raptors": {
+                    "table": "C",
+                    "score": 300,
+                    "scoreboard": "121000011313001011010015",
+                    "best": true
+                },
+                "robohunter": {
+                    "table": "D",
+                    "score": 255,
+                    "scoreboard": "120100011313110000000403",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 17,
+            "game": "robotgame",
+            "time": "15:15",
+            "teams": {
+                "patates": {
+                    "table": "A",
+                    "score": 45,
+                    "scoreboard": "000000000300000000000002"
+                },
+                "capricorns": {
+                    "table": "B",
+                    "score": 400,
+                    "scoreboard": "121310010313110100111235",
+                    "best": true
+                }
+            }
+        },
+        {
+            "number": 18,
+            "game": "robotgame",
+            "time": "15:20",
+            "teams": {
+                "capricornsjr": {
+                    "table": "C",
+                    "score": 205,
+                    "scoreboard": "120000011302101000000004",
+                    "best": true
+                },
+                "jurartefact": {
+                    "table": "D",
+                    "score": 145,
+                    "scoreboard": "110200011000000000100004"
+                }
+            }
+        },
+        {
+            "number": 19,
+            "game": "robotgame",
+            "time": "15:25",
+            "teams": {
+                "lbj": {
+                    "table": "A",
+                    "score": 85,
+                    "scoreboard": "120000010001000000000003"
+                },
+                "jurarcheo": {
+                    "table": "B",
+                    "score": 95,
+                    "scoreboard": "110000010000000000100004"
+                }
+            }
+        },
+        {
+            "number": 20,
+            "game": "robotgame",
+            "time": "15:30",
+            "teams": {
+                "pioche": {
+                    "table": "C",
+                    "score": 115,
+                    "scoreboard": "100100010100010000100004"
+                },
+                "earts": {
+                    "table": "D",
+                    "score": 405,
+                    "scoreboard": "121310111213111100001024"
+                }
+            }
+        },
+        {
+            "number": 21,
+            "game": "semifinals",
+            "time": "15:45",
+            "teams": {
+                "earts": {
+                    "table": "C",
+                    "score": 400,
+                    "scoreboard": "101311111213011000001425"
+                },
+                "robohunter": {
+                    "table": "D",
+                    "score": 245,
+                    "scoreboard": "121011010303110000000105"
+                }
+            }
+        },
+        {
+            "number": 22,
+            "game": "semifinals",
+            "time": "15:50",
+            "teams": {
+                "capricorns": {
+                    "table": "A",
+                    "score": 455,
+                    "scoreboard": "121210011313111100111535"
+                },
+                "raptors": {
+                    "table": "B",
+                    "score": 220,
+                    "scoreboard": "121000010303010000110015"
+                }
+            }
+        },
+        {
+            "number": 23,
+            "game": "finals",
+            "time": "16:00",
+            "teams": {
+                "capricorns": {
+                    "table": "A",
+                    "score": 430,
+                    "scoreboard": "121311010013111110111436"
+                },
+                "earts": {
+                    "table": "B",
+                    "score": 540,
+                    "scoreboard": "121311111313111111111636"
+                }
+            }
+        },
+        {
+            "number": 24,
+            "game": "finals",
+            "time": "16:10",
+            "teams": {
+                "earts": {
+                    "table": "A",
+                    "score": 445,
+                    "scoreboard": "121210111313101011100335"
+                },
+                "capricorns": {
+                    "table": "B",
+                    "score": 330,
+                    "scoreboard": "120300010313111000110225"
+                }
+            }
+        }
+    ]
+}

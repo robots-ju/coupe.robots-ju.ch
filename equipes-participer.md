@@ -26,9 +26,7 @@ dans des clubs de robotique, en famille ou avec des copains…
 
 ## Comment s’inscrire ?
 
-Une finance d’inscription de {{ site.concours.finance_inscription }} CHF par équipe est perçue.
-
-{% include inscriptions-common.md %}
+Les informations pour la prochaine édition suivront.
 
 ## Comment s’entraîner ?
 

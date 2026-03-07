@@ -25,9 +25,7 @@ La remise des prix se fait en commun avec la catégorie Senior.
 
 ## Comment s’inscrire ?
 
-Une finance d’inscription de {{ site.concours.finance_inscription_explorateur }} CHF par équipe est perçue.
-
-{% include inscriptions-common.md %}
+Les informations pour la prochaine édition suivront.
 
 ## Comment s’entraîner ?
 

@@ -5,7 +5,9 @@ permalink: /programme
 banner_image: /media/banners/public.jpg
 ---
 
-La Coupe 2026 se déroulera le samedi 7 mars 2026 au Forum de l'Arc à Moutier dans le cadre du [Salon interjurassien de la formation](https://www.salon-formation.ch/).
+La Coupe 2026 s'est déroulée le samedi 7 mars 2026 au Forum de l'Arc à Moutier dans le cadre du [Salon interjurassien de la formation](https://www.salon-formation.ch/).
+
+Vous pouvez consulter la [rediffusion sur YouTube](https://www.youtube.com/watch?v=HXkNsDfRIv8).
 
 **Pour les équipes**: Les équipes se sont [inscrites](/equipes/participer) et entraînées en vue de la compétition.
 
@@ -14,9 +16,6 @@ Vous les verrez réaliser différentes tâches avec des robots LEGO Mindstorms a
 Les matches de robots sont commentés et diffusés sur grand écran !
 
 L'entrée est libre.
-
-L'événement sera également diffusé en direct sur notre [Chaîne YouTube](https://www.youtube.com/@RobotsJU).
-Pour patienter, la [rediffusion de l'édition 2025](https://www.youtube.com/watch?v=P2NBR2CKaHA) est disponible!
 
 ## Matin: Live Challenge
 

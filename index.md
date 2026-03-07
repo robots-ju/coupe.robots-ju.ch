@@ -10,14 +10,14 @@ banner_image: /media/banners/robotgame.jpg
 
 <h2 class="motto">La coupe de robotique jurassienne</h2>
 
-La 8e édition de la Coupe Robots-JU aura lieu le samedi **7 mars 2026** dans le cadre du Salon interjurassien de la formation à **Moutier**.
+La 8e édition de la Coupe Robots-JU a pris place le samedi **7 mars 2026** dans le cadre du Salon interjurassien de la formation à **Moutier**.
 
 La Coupe est organisée par [Robots-JU](https://robots-ju.ch/), un club de robotique jurassien.
 Des équipes de jeunes de 6 à 16 ans construisent et programment pendant plusieurs mois des robots LEGO Mindstorms.
 Lors de la compétition, les robots remplissent en autonomie des missions très variées pour marquer des points.
 
 <div class="links">
-  <a class="btn btn-lg btn-primary" href="/programme"><i class="fa fa-tasks" aria-hidden="true"></i> Programme</a>
+  <a class="btn btn-lg btn-primary" href="/resultats/2026"><i class="fa fa-tasks" aria-hidden="true"></i> Voir les résultats</a>
 </div>
 
 <div class="links">
