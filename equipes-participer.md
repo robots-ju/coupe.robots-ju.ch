@@ -9,6 +9,8 @@ redirect_from:
 banner_image: /media/banners/table.jpg
 ---
 
+<div class="alert alert-info">La Coupe Robots-JU n'aura pas lieu en 2027. <a href="/2026/11/16/coupe-2027">Lire le communiqué</a></div>
+
 <i class="fa fa-info-circle" aria-hidden="true"></i>
 Pour la catégorie Explorateur (6 à 10 ans), voir [cette page](/equipes/participer-explorateur).
 

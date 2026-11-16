@@ -5,6 +5,8 @@ permalink: /programme
 banner_image: /media/banners/public.jpg
 ---
 
+<div class="alert alert-info">La Coupe Robots-JU n'aura pas lieu en 2027. <a href="/2026/11/16/coupe-2027">Lire le communiqué</a></div>
+
 La Coupe 2026 s'est déroulée le samedi 7 mars 2026 au Forum de l'Arc à Moutier dans le cadre du [Salon interjurassien de la formation](https://www.salon-formation.ch/).
 
 Vous pouvez consulter la [rediffusion sur YouTube](https://www.youtube.com/watch?v=HXkNsDfRIv8).
